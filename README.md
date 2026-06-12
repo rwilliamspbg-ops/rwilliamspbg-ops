@@ -1,98 +1,73 @@
-# 🌐 Sovereign Mohawk Proto LLC
-### Planetary-Scale Decentralized AI Infrastructure
-⚡ Zero-Trust Cryptographic Verification  •  🏎️ Kernel-Bypass Networking  •  🛡️ Post-Quantum Native
-
-
----
-
----
-
-## 📊 Core Performance Metrics
-
-```mermaid
-graph LR
-    classDef metric fill:#111,stroke:#333,stroke-width:1px,color:#fff;
-
-    M1["🏎️ NETWORK LATENCY<br/><b>&lt; 1.0 ms</b><br/>AF_XDP Zero-Copy Path"]:::metric
-    M2["🌍 SIMULATION SCALE<br/><b>10M + Nodes</b><br/>Byzantine-Resilient"]:::metric
-    M3["🛡️ ZK-PROOF TIMING<br/><b>~ 10 ms</b><br/>Groth16 Input Matrix"]:::metric
-Performance Vector: Engineered for massive-scale federated learning, Byzantine-resilient coordination, and post-quantum secure agentic environments.
-```
-
-
-Engineered for **massive-scale federated learning**, **Byzantine-resilient coordination**, and **post-quantum secure** agentic environments. 
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/0A1625/00D4FF?text=SOVEREIGN+MOHAWK+PROTO" alt="Mohawk Nexus Banner" width="100%" style="border-radius: 12px;"/>
+  
+  <h1>Sovereign Mohawk Proto LLC</h1>
+  <p><strong>High-Performance • Quantum-Resistant • Formally Verified Infrastructure</strong></p>
+  
+  <p>
+    <a href="https://rwilliamspbg-ops.github.io/Mohawk-Nexus/"><img src="https://img.shields.io/badge/Mohawk_Nexus-Website-00D4FF?style=for-the-badge&logo=github" alt="Mohawk Nexus"/></a>
+    <a href="https://www.linkedin.com/in/rwilliams-pa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="https://orcid.org/0009-0005-1126-7004"><img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid" alt="ORCID"/></a>
+  </p>
+</div>
 
 ---
 
-## 🏢 Architectural System Topology
-```
-graph TD
-    classDef suite fill:#1a1a2e,stroke:#4e54c8,stroke-width:2px,color:#fff;
-    classDef nexus fill:#162447,stroke:#00b4d8,stroke-width:2px,color:#fff;
-    classDef datapath fill:#1f4068,stroke:#e94560,stroke-width:2px,color:#fff;
-    classDef runtime fill:#0f3460,stroke:#f5a623,stroke-width:2px,color:#fff;
+### 🛠️ What We Build
 
-    SAPM["🔮 Sovereign Agentic Prediction Market (SAPM)<br/>Sui Move Contracts • DeepBook • Walrus Storage"]:::suite
-    NEXUS["⚙️ MOHAWK-NEXUS<br/>Control Plane (Go)<br/>Hardware Crypto Acceleration & Bridge Ingestion"]:::nexus
-    SMIP["🏎️ SMIP-MWP-RUST<br/>Data Path (Rust)<br/>AF_XDP Zero-Copy Routing • x25519-mlkem768 Hybrid KEX"]:::datapath
-    TEE["🛡️ SMP-TEE-RUNTIME<br/>Secure Execution Enclaves<br/>Formally Verified via Lean 4 BFT Gates"]:::runtime
+We're engineering the next generation of **sovereign, scalable, and secure systems**:
 
-    SAPM -->|Control Signals| NEXUS
-    NEXUS -->|Data Ingestion| SMIP
-    SMIP -->|Secure Execution Loops| TEE
-```
-Sovereign Mohawk Proto LLC designs *resilient, high-throughput, formally verified* infrastructure for cross-border federated learning. By combining kernel-bypass networking, hardware-rooted trust, and mathematically proven correctness, we deliver systems that scale globally without sacrificing privacy or verifiability.
+- **Mohawk Nexus**: Ultra-high-performance multi-language network stack (Rust datapath + Go control plane) with AF_XDP, zero-copy processing, and hybrid post-quantum cryptography. [](grok_render_citation_card_json={"cardIds":["1f2450"]})
+- **Sovereign Federated Learning**: Byzantine-tolerant frameworks targeting 10M+ nodes with zk-SNARKs, TEE runtimes, and formal BFT verification.
+- **PQC & Zero-Trust Infrastructure**: x25519-mlkem768 hybrids, XMSS TPM attestation, and formal methods in Lean.
+- **Agentic & Prediction Market Systems**: On Sui and beyond, with real-time streaming aggregation.
+
+**Core Pillars**: Performance (2.49+ Mpps), Energy Efficiency, Memory Safety, Formal Guarantees, and Quantum Readiness.
 
 ---
 
-## 🛠️ Deep Tech Topology Matrix
+### 🚀 Featured Projects
 
-| Layer | Primary Stack | Architecture & Breakthrough Vector |
-| :--- | :--- | :--- |
-| **Languages** | `Rust` `Go` `Lean 4` `Move` `TypeScript` | Formal specifications + high-performance type safety. |
-| **Networking** | `AF_XDP` `SMIP-MWP` | Zero-copy, lock-free routing achieving near line-rate aggregation. |
-| **Cryptography** | `x25519-mlkem768` `XMSS` | Hybrid post-quantum key exchange with TPM attestation and Groth16 zk-SNARKs. |
-| **Execution** | `TEEs` `Ryzen AI NPU` `ROCm` | Edge split-inference with multi-device cryptographic offloading. |
-| **Ledger** | `Sui` `Walrus` | Decentralized proof publishing and trustless settlement. |
+<div align="center">
 
----
+| Repository | Description | Tech |
+|------------|-------------|------|
+| **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | Unified high-performance network stack | Rust, Go, AF_XDP |
+| **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** | 10M-node federated learning + BFT | Python, Rust, zk-SNARKs |
+| **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy Rust datapath | Rust, Makefile |
+| **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened TEE aggregation runtime | Rust |
+| **[Sovereign-Agentic-Prediction-Market...](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)** | Agentic markets on Sui | TypeScript, Full-stack |
 
-## 🚀 Key Ecosystem Subsystems
-
-### 🌐 [Sovereign Mohawk Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)
-*Flagship Framework for Planetary-Scale Federated Learning (Simulated up to 10M nodes)*
-* **PQC Overhaul:** Hybrid KEX (x25519-mlkem768) + automated epoch rotation natively enforced.
-* **Zero-Knowledge Gating:** Sub-10ms `Groth16` zk-SNARK proofs validating input training matrix integrity before aggregation.
-* **Mathematical Truth:** `Lean 4` formal verification backing the core BFT consensus gates.
-
-### 🏎️ High-Performance Networking Datapath
-* [SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust) — Ultra-low latency zero-copy AF_XDP datapath implementing inline `AES-256-GCM` and `ChaCha20-Poly1305` processing loops.
-* [Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus) — High-concurrency Go control plane handling system state, interface bridging, and hardware cryptographic offloading routines.
-
-### 🔮 [Sovereign Agentic Prediction Market (SAPM)](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)
-*Production-grade autonomous prediction architecture operating on the Sui Blockchain*
-* Automated on-chain evaluation loops utilizing **Sui Move** coupled with **DeepBook** order books.
-* Scalable decentralized verification storage utilizing **Walrus** to publish mathematical state proofs.
-* "Liquid-metal" real-time frontend featuring a Next.js interface integrated with CopilotKit.
-
-### 🛡️ Security & Hardened Inference
-* [smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime) — Isolated Rust-based trusted execution enclaves running secure robust aggregation metrics (`Multi-Krum`, `FedAvg`).
-* [Mohawk-Inference-Engine](https://github.com/rwilliamspbg-ops/Mohawk-Inference-Engine) — Local concurrency daemon processing split-inference layers with PQC edge offloading.
+</div>
 
 ---
 
-## 📈 Recent Technical Milestones
+### 🛡️ Tech Stack
 
-* **Sui Hackathon Execution:** Successfully completed full-stack SAPM deployment featuring decentralized proof publishing loops directly on Walrus.
-* **Zero-Copy Optimization:** Drastically reduced memory allocation pressure across the critical Go/Rust boundary layers inside Mohawk-Nexus.
-* **ZK Hardening:** Resolved structural Groth16 R1CS constraint stability bugs for processing dense training matrix validation proofs.
-* **PQC Migration:** Finished end-to-end integration of the hybrid post-quantum key exchange pipeline backed by XMSS attestation.
+**Languages**: Rust • Go • Python • TypeScript  
+**Performance**: AF_XDP • Zero-Copy • AVX2/SIMD • Lock-Free  
+**Security**: Post-Quantum (ML-KEM) • zk-SNARKs • TEEs • TPM/XMSS • Formal Verification (Lean)  
+**Distributed**: BFT • Federated Learning • Multi-Krum • Sui/Blockchain Integration  
 
 ---
 
-## 📬 Connect & Collaborate
+### 📊 Highlights
+- 4,160+ contributions in the last year
+- Active development across networking, crypto, and sovereign AI systems
+- Seattle, WA based • Open to collaborations and enterprise inquiries
 
-* **Professional Identity:** [ORCID Record 0009-0005-1126-7004](https://orcid.org/0009-0005-1126-7004)
-* **Professional Network:** [LinkedIn / rwilliams-pa](https://linkedin.com/in/rwilliams-pa)
+---
 
-⭐ Star the ecosystem repositories if you are building the future of trustless infrastructure.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+**🌐 Explore more**: [Mohawk Nexus Site](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) | [LinkedIn](https://www.linkedin.com/in/rwilliams-pa/)
+
+---
+
+*Built with focus on verifiable sovereignty, extreme performance, and long-term resilience.*
