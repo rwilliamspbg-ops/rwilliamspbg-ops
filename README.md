@@ -1,90 +1,101 @@
-# Sovereign Mohawk Proto LLC
+# 🌐 Sovereign Mohawk Proto LLC
+### Planetary-Scale Decentralized AI Infrastructure
+⚡ Zero-Trust Cryptographic Verification  •  🏎️ Kernel-Bypass Networking  •  🛡️ Post-Quantum Native
 
-**Planetary-Scale Decentralized AI Infrastructure**  
-**Zero-Trust Cryptographic Verification • Kernel-Bypass Networking**
-
-![Sovereign Mohawk Proto](https://img.shields.io/badge/Status-Active%20Development-00ff9d?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Sui](https://img.shields.io/badge/Sui-4A3AFF?style=for-the-badge&logo=sui&logoColor=white)
-![Lean 4](https://img.shields.io/badge/Lean%204-3871B8?style=for-the-badge)
-
-> Engineered for **massive-scale federated learning**, **Byzantine-resilient coordination**, and **post-quantum secure** agentic systems.
 
 ---
 
-## 🏢 Architectural Vision
+## 📊 Core Performance Metrics
 
-Sovereign Mohawk Proto LLC designs **resilient, high-throughput, formally verified** infrastructure for decentralized applications and cross-border federated learning.
+┌──────────────────────────┬──────────────────────────┬──────────────────────────┐
+│     NETWORK LATENCY      │     SIMULATION SCALE     │     ZK-PROOF TIMING      │
+│        < 1.0 ms          │          10M +           │         ~ 10 ms          │
+│   AF_XDP Zero-Copy Path  │   Byzantine-Resilient    │   Groth16 Input Matrix   │
+└──────────────────────────┴──────────────────────────┴──────────────────────────┘
 
-By combining **kernel-bypass networking**, **hardware-rooted trust**, and **mathematically proven correctness**, we deliver systems that scale to planetary levels without sacrificing privacy, verifiability, or performance.
 
-**Core Principles:**
-- **Zero-Trust Everywhere** — Cryptographic verification at every layer
-- **Kernel-Bypass Performance** — Sub-millisecond datapaths with AF_XDP
-- **Formal Guarantees** — Lean 4 specifications + Groth16 zk-SNARKs
-- **Post-Quantum Native** — Hybrid KEX and XMSS from day one
-
----
-
-## 🛠️ Core Technology Stack
-
-| Layer                  | Technologies |
-|------------------------|--------------|
-| **Languages**          | **Rust**, **Go**, **Lean 4**, **Move**, **TypeScript** |
-| **Networking**         | **AF_XDP** Zero-Copy, Lock-Free Routing, **SMIP-MWP** Protocol |
-| **Cryptography**       | Hybrid **x25519-mlkem768**, **XMSS** + TPM Attestation, **Groth16** zk-SNARKs, AES-256-GCM / ChaCha20-Poly1305 |
-| **Trust & Execution**  | TEEs (Multi-Krum / FedAvg), Ryzen AI NPU/GPU Offload, AMD ROCm |
-| **Blockchain**         | **Sui** (Move + DeepBook + Walrus) |
+Engineered for **massive-scale federated learning**, **Byzantine-resilient coordination**, and **post-quantum secure** agentic environments. 
 
 ---
 
-## 🚀 Key Ecosystem Repositories
+## 🏢 Architectural System Topology
+
+         ┌─────────────────────────────────────────────────────────┐
+         │       Sovereign Agentic Prediction Market (SAPM)        │
+         │     Sui Move Contracts  •  DeepBook  •  Walrus Storage  │
+         └───────────────────────────┬─────────────────────────────┘
+                                     │
+                                     ▼ (Control Plane / Go)
+         ┌─────────────────────────────────────────────────────────┐
+         │                     MOHAWK-NEXUS                        │
+         │       Hardware Crypto Acceleration & Bridge Ingestion   │
+         └───────────────────────────┬─────────────────────────────┘
+                                     │
+                                     ▼ (Data Path / Rust)
+         ┌─────────────────────────────────────────────────────────┐
+         │                    SMIP-MWP-RUST                        │
+         │   AF_XDP Zero-Copy Routing  •  x25519-mlkem768 Hybrid KEX│
+         └───────────────────────────┬─────────────────────────────┘
+                                     │
+                                     ▼ (Secure Execution)
+         ┌─────────────────────────────────────────────────────────┐
+         │                   SMP-TEE-RUNTIME                       │
+         │   Hardened Aggregation Enclaves (Multi-Krum / FedAvg)   │
+         │          Formally Verified via Lean 4 BFT Gates         │
+         └─────────────────────────────────────────────────────────┘
+
+Sovereign Mohawk Proto LLC designs *resilient, high-throughput, formally verified* infrastructure for cross-border federated learning. By combining kernel-bypass networking, hardware-rooted trust, and mathematically proven correctness, we deliver systems that scale globally without sacrificing privacy or verifiability.
+
+---
+
+## 🛠️ Deep Tech Topology Matrix
+
+| Layer | Primary Stack | Architecture & Breakthrough Vector |
+| :--- | :--- | :--- |
+| **Languages** | `Rust` `Go` `Lean 4` `Move` `TypeScript` | Formal specifications + high-performance type safety. |
+| **Networking** | `AF_XDP` `SMIP-MWP` | Zero-copy, lock-free routing achieving near line-rate aggregation. |
+| **Cryptography** | `x25519-mlkem768` `XMSS` | Hybrid post-quantum key exchange with TPM attestation and Groth16 zk-SNARKs. |
+| **Execution** | `TEEs` `Ryzen AI NPU` `ROCm` | Edge split-inference with multi-device cryptographic offloading. |
+| **Ledger** | `Sui` `Walrus` | Decentralized proof publishing and trustless settlement. |
+
+---
+
+## 🚀 Key Ecosystem Subsystems
 
 ### 🌐 [Sovereign Mohawk Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)
-**Flagship Framework** — Massive-scale Federated Learning (simulated up to **10M nodes**)
+*Flagship Framework for Planetary-Scale Federated Learning (Simulated up to 10M nodes)*
+* **PQC Overhaul:** Hybrid KEX (x25519-mlkem768) + automated epoch rotation natively enforced.
+* **Zero-Knowledge Gating:** Sub-10ms `Groth16` zk-SNARK proofs validating input training matrix integrity before aggregation.
+* **Mathematical Truth:** `Lean 4` formal verification backing the core BFT consensus gates.
 
-- 2026 Post-Quantum Cryptography overhaul (hybrid KEX + epoch rotation)
-- Sub-10ms **Groth16** zk-SNARK proofs for input integrity
-- Lean 4 formal verification of BFT consensus gates
-
-### 🏎️ Networking Stack
-- **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** — Zero-copy AF_XDP datapath in Rust
-- **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** — Go control plane + hardware crypto acceleration
-
-**Performance:** Sub-millisecond lock-free routing with near line-rate aggregation.
+### 🏎️ High-Performance Networking Datapath
+* [SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust) — Ultra-low latency zero-copy AF_XDP datapath implementing inline `AES-256-GCM` and `ChaCha20-Poly1305` processing loops.
+* [Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus) — High-concurrency Go control plane handling system state, interface bridging, and hardware cryptographic offloading routines.
 
 ### 🔮 [Sovereign Agentic Prediction Market (SAPM)](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)
-**Production-grade agentic prediction market** on Sui Blockchain
+*Production-grade autonomous prediction architecture operating on the Sui Blockchain*
+* Automated on-chain evaluation loops utilizing **Sui Move** coupled with **DeepBook** order books.
+* Scalable decentralized verification storage utilizing **Walrus** to publish mathematical state proofs.
+* "Liquid-metal" real-time frontend featuring a Next.js interface integrated with CopilotKit.
 
-- Native **Sui Move** smart contracts + DeepBook liquidity
-- Walrus decentralized storage for proofs
-- Next.js "liquid-metal" frontend with **CopilotKit** AI co-pilot
-- Live trader agent transcripts + automated on-chain verification
-
-### 🛡️ Security & Inference
-- **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** — Hardened Rust TEE runtime for secure federated aggregation
-- **[Mohawk-Inference-Engine](https://github.com/rwilliamspbg-ops/Mohawk-Inference-Engine)** — Edge split-inference with PQC-secured multi-device offloading
+### 🛡️ Security & Hardened Inference
+* [smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime) — Isolated Rust-based trusted execution enclaves running secure robust aggregation metrics (`Multi-Krum`, `FedAvg`).
+* [Mohawk-Inference-Engine](https://github.com/rwilliamspbg-ops/Mohawk-Inference-Engine) — Local concurrency daemon processing split-inference layers with PQC edge offloading.
 
 ---
 
 ## 📈 Recent Technical Milestones
 
-- **Sui Hackathon** — Full-stack SAPM deployment with decentralized proof publishing on Walrus
-- **Zero-Copy Optimizations** — Dramatically reduced Go/Rust boundary allocation pressure in Mohawk-Nexus
-- **ZK Hardening** — Resolved Groth16 R1CS constraint issues for training matrix proofs
-- **PQC Migration** — Completed hybrid post-quantum key exchange + XMSS attestation pipeline
+* **Sui Hackathon Execution:** Successfully completed full-stack SAPM deployment featuring decentralized proof publishing loops directly on Walrus.
+* **Zero-Copy Optimization:** Drastically reduced memory allocation pressure across the critical Go/Rust boundary layers inside Mohawk-Nexus.
+* **ZK Hardening:** Resolved structural Groth16 R1CS constraint stability bugs for processing dense training matrix validation proofs.
+* **PQC Migration:** Finished end-to-end integration of the hybrid post-quantum key exchange pipeline backed by XMSS attestation.
 
 ---
 
 ## 📬 Connect & Collaborate
 
-**Professional Inquiries & Technical Deep Dives:**
-- LinkedIn: [Ryan Williams](https://linkedin.com/in/rwilliams-pa)
-- ORCID: [0009-0005-1126-7004](https://orcid.org/0009-0005-1126-7004)
+* **Professional Identity:** [ORCID Record 0009-0005-1126-7004](https://orcid.org/0009-0005-1126-7004)
+* **Professional Network:** [LinkedIn / rwilliams-pa](https://linkedin.com/in/rwilliams-pa)
 
----
-
-**Built with passion for sovereign systems, cryptographic truth, and the future of decentralized intelligence.**
-
-*Star the repos if you're building the next era of trustless infrastructure.*
+⭐ Star the ecosystem repositories if you are building the future of trustless infrastructure.
