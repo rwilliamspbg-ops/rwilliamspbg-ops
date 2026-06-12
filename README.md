@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Realistic Banner -->
-  <img src="https://via.placeholder.com/1200x350/0F172A/00E5FF?text=Mohawk+Nexus+-+Sovereign+High-Performance+Infrastructure" 
+ <img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png" alt="Mohawk Nexus Banner" width="100%" style="border-radius: 16px;"/>
        alt="Mohawk Nexus Banner" 
        width="100%" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.1);"/>
   
