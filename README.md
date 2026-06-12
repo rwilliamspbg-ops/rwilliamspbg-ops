@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Realistic Banner -->
+  <!-- Banner -->
   <img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" 
        alt="Mohawk Nexus Banner" 
        width="100%" 
@@ -7,9 +7,12 @@
   
   <h1>👋 Hey, I'm rwilliamspbg-ops</h1>
   <p><strong>Founder @ Sovereign Mohawk Proto LLC</strong><br>
-  Building sovereign, quantum-resistant, high-performance infrastructure for the next decade.</p>
+  Building sovereign, quantum-resistant, high-performance infrastructure.</p>
 
   <p>
+    <a href="https://github.com/sponsors/rwilliamspbg-ops">
+      <img src="https://img.shields.io/badge/Sponsor%20My%20Work-%231EAEDB?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor"/>
+    </a>
     <a href="https://rwilliamspbg-ops.github.io/Mohawk-Nexus/">
       <img src="https://img.shields.io/badge/Mohawk_Nexus-Website-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Website"/>
     </a>
@@ -26,14 +29,12 @@
 
 ### 🛠️ What I Build
 
-I engineer **sovereign, ultra-high-performance systems** that prioritize memory safety, formal verification, energy efficiency, and quantum resistance.
+I engineer **sovereign, ultra-high-performance systems** focused on memory safety, formal verification, energy efficiency, and quantum resistance.
 
-- **Mohawk Nexus** — Multi-language high-performance network stack (Rust datapath + Go control plane) delivering 2.49+ Mpps with AF_XDP and zero-copy.
-- **Sovereign Federated Learning** — Byzantine fault tolerant frameworks designed for 10M+ node scale.
-- **Post-Quantum & Zero-Trust Infrastructure** — Hybrid PQC (ML-KEM), TPM/XMSS attestation, and TEE runtimes.
+- **Mohawk Nexus** — High-performance network stack (Rust + Go) pushing 2.49+ Mpps.
+- **Sovereign Federated Learning** — Byzantine-tolerant systems at 10M+ node scale.
+- **Post-Quantum Infrastructure** — ML-KEM hybrids, TEEs, and formal methods.
 - **Agentic Systems on Sui** — Autonomous agents and prediction markets.
-
-**Core Focus**: Verifiable sovereignty, extreme performance, and long-term resilience.
 
 ---
 
@@ -41,40 +42,35 @@ I engineer **sovereign, ultra-high-performance systems** that prioritize memory 
 
 | Project | Description | Key Tech |
 |---------|-------------|----------|
-| **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | High-performance unified network stack | Rust, Go, AF_XDP, Zero-Copy |
+| **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | High-performance unified network stack | Rust, Go, AF_XDP |
 | **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** | Scalable federated learning + BFT | Rust, Python, zk-SNARKs |
 | **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy Rust datapath | Rust, SIMD |
-| **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened TEE aggregation runtime | Rust, TEE |
+| **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened TEE runtime | Rust, TEE |
 | **[Sovereign Agentic Prediction Market](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)** | Agentic markets on Sui | TypeScript, Sui |
 
 ---
 
 ### 🛡️ Tech Stack
 
-**Performance & Systems**  
-`Rust` • `Go` • `AF_XDP` • `Zero-Copy` • `Lock-Free` • `AVX2/SIMD`
-
-**Security & Crypto**  
-`Post-Quantum (ML-KEM, XMSS)` • `zk-SNARKs` • `TEEs` • `TPM Attestation` • `Formal Verification (Lean)`
-
-**Distributed & AI**  
-`BFT Consensus` • `Sovereign Federated Learning` • `Multi-Krum` • `Sui Blockchain`
+**Performance** — `Rust` • `Go` • `AF_XDP` • `Zero-Copy` • `SIMD`  
+**Security** — `Post-Quantum` • `zk-SNARKs` • `TEEs` • `Formal Verification`  
+**Distributed** — `BFT` • `Federated Learning` • `Sui`
 
 ---
 
 ### 📊 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true&bg_color=0F172A" alt="Top Languages"/>
 </div>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect & Support
 
-- **Website**: [Mohawk Nexus](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/)
-- **LinkedIn**: [rwilliams-pa](https://www.linkedin.com/in/rwilliams-pa/)
+- **Sponsor my work** → [github.com/sponsors/rwilliamspbg-ops](https://github.com/sponsors/rwilliamspbg-ops)
+- **Website** → [Mohawk Nexus](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/)
 - **Location**: Seattle, WA
 
 *Building systems that last — memory safe, quantum ready, and sovereign by design.*
