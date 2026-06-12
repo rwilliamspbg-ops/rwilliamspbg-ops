@@ -5,13 +5,18 @@
 
 ---
 
+---
+
 ## 📊 Core Performance Metrics
 
-┌──────────────────────────┬──────────────────────────┬──────────────────────────┐
-│     NETWORK LATENCY      │     SIMULATION SCALE     │     ZK-PROOF TIMING      │
-│        < 1.0 ms          │          10M +           │         ~ 10 ms          │
-│   AF_XDP Zero-Copy Path  │   Byzantine-Resilient    │   Groth16 Input Matrix   │
-└──────────────────────────┴──────────────────────────┴──────────────────────────┘
+```mermaid
+textBlocks
+    ┌──────────────────────────┬──────────────────────────┬──────────────────────────┐
+    │     NETWORK LATENCY      │     SIMULATION SCALE     │     ZK-PROOF TIMING      │
+    │        < 1.0 ms          │          10M +           │         ~ 10 ms          │
+    │   AF_XDP Zero-Copy Path  │   Byzantine-Resilient    │   Groth16 Input Matrix   │
+    └──────────────────────────┴──────────────────────────┴──────────────────────────┘
+```
 
 
 Engineered for **massive-scale federated learning**, **Byzantine-resilient coordination**, and **post-quantum secure** agentic environments. 
@@ -20,29 +25,20 @@ Engineered for **massive-scale federated learning**, **Byzantine-resilient coord
 
 ## 🏢 Architectural System Topology
 
-         ┌─────────────────────────────────────────────────────────┐
-         │       Sovereign Agentic Prediction Market (SAPM)        │
-         │     Sui Move Contracts  •  DeepBook  •  Walrus Storage  │
-         └───────────────────────────┬─────────────────────────────┘
-                                     │
-                                     ▼ (Control Plane / Go)
-         ┌─────────────────────────────────────────────────────────┐
-         │                     MOHAWK-NEXUS                        │
-         │       Hardware Crypto Acceleration & Bridge Ingestion   │
-         └───────────────────────────┬─────────────────────────────┘
-                                     │
-                                     ▼ (Data Path / Rust)
-         ┌─────────────────────────────────────────────────────────┐
-         │                    SMIP-MWP-RUST                        │
-         │   AF_XDP Zero-Copy Routing  •  x25519-mlkem768 Hybrid KEX│
-         └───────────────────────────┬─────────────────────────────┘
-                                     │
-                                     ▼ (Secure Execution)
-         ┌─────────────────────────────────────────────────────────┐
-         │                   SMP-TEE-RUNTIME                       │
-         │   Hardened Aggregation Enclaves (Multi-Krum / FedAvg)   │
-         │          Formally Verified via Lean 4 BFT Gates         │
-         └─────────────────────────────────────────────────────────┘
+graph TD
+    classDef suite fill:#1a1a2e,stroke:#4e54c8,stroke-width:2px,color:#fff;
+    classDef nexus fill:#162447,stroke:#00b4d8,stroke-width:2px,color:#fff;
+    classDef datapath fill:#1f4068,stroke:#e94560,stroke-width:2px,color:#fff;
+    classDef runtime fill:#0f3460,stroke:#f5a623,stroke-width:2px,color:#fff;
+
+    SAPM["🔮 Sovereign Agentic Prediction Market (SAPM)<br/>Sui Move Contracts • DeepBook • Walrus Storage"]:::suite
+    NEXUS["⚙️ MOHAWK-NEXUS<br/>Control Plane (Go)<br/>Hardware Crypto Acceleration & Bridge Ingestion"]:::nexus
+    SMIP["🏎️ SMIP-MWP-RUST<br/>Data Path (Rust)<br/>AF_XDP Zero-Copy Routing • x25519-mlkem768 Hybrid KEX"]:::datapath
+    TEE["🛡️ SMP-TEE-RUNTIME<br/>Secure Execution Enclaves<br/>Formally Verified via Lean 4 BFT Gates"]:::runtime
+
+    SAPM -->|Control Signals| NEXUS
+    NEXUS -->|Data Ingestion| SMIP
+    SMIP -->|Secure Execution Loops| TEE
 
 Sovereign Mohawk Proto LLC designs *resilient, high-throughput, formally verified* infrastructure for cross-border federated learning. By combining kernel-bypass networking, hardware-rooted trust, and mathematically proven correctness, we deliver systems that scale globally without sacrificing privacy or verifiability.
 
