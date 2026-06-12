@@ -25,23 +25,40 @@
 ---
 
 ### 🔥 Contribution Highlights
-**4,179 contributions** in the last year • Highly active across 11+ repositories
+**4,179 contributions** in the last year across 11+ repositories
 
 <div align="center">
-  <!-- Streak Stats - Highly Recommended -->
-  <img src="https://streak-stats.demolab.com?user=rwilliamspbg-ops&theme=dark&hide_border=true&background=0F172A" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=rwilliamspbg-ops&theme=dark&hide_border=true&background=0F172A" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 🛠️ What I Build
+### 🛠️ Tech Stack
 
-I engineer **sovereign, ultra-high-performance systems** focused on memory safety, formal verification, energy efficiency, and quantum resistance.
+<div align="center">
 
-- **Mohawk Nexus** — High-performance network stack (Rust + Go) pushing **2.49+ Mpps**.
-- **Sovereign Federated Learning** — Byzantine-tolerant frameworks at 10M+ node scale.
-- **Post-Quantum Infrastructure** — ML-KEM hybrids, TEEs, TPM/XMSS.
-- **Agentic Systems on Sui**.
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Performance**  
+![AF_XDP](https://img.shields.io/badge/AF__XDP-FF0000?style=for-the-badge) 
+**Zero-Copy** 
+**SIMD / AVX2**
+
+**Security & Crypto**  
+![Post-Quantum](https://img.shields.io/badge/Post--Quantum-00B4A8?style=for-the-badge) 
+![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-7B1FA2?style=for-the-badge)
+**TEEs** • **TPM** • **XMSS**
+
+**Distributed Systems**  
+**BFT** • **Federated Learning** • **Sui Blockchain**
+
+</div>
 
 ---
 
@@ -52,7 +69,7 @@ I engineer **sovereign, ultra-high-performance systems** focused on memory safet
 | **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | High-performance unified network stack | Rust, Go, AF_XDP |
 | **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** | Scalable federated learning + BFT | Rust, Python, zk-SNARKs |
 | **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy Rust datapath | Rust, SIMD |
-| **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened TEE runtime | Rust |
+| **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened TEE runtime | Rust, TEE |
 | **[Sovereign Agentic Prediction Market](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)** | Agentic markets on Sui | TypeScript, Sui |
 
 ---
