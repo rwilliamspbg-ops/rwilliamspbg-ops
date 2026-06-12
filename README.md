@@ -37,26 +37,32 @@
 
 <div align="center">
 
+**Languages & Core**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+**Systems & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Performance**  
-![AF_XDP](https://img.shields.io/badge/AF__XDP-FF0000?style=for-the-badge) 
-**Zero-Copy** 
-**SIMD / AVX2**
+**Performance**
+![AF_XDP](https://img.shields.io/badge/AF_XDP-FF0000?style=for-the-badge)
+![Zero-Copy](https://img.shields.io/badge/Zero--Copy-00C853?style=for-the-badge)
+![SIMD](https://img.shields.io/badge/SIMD__AVX2-FF9800?style=for-the-badge)
 
-**Security & Crypto**  
-![Post-Quantum](https://img.shields.io/badge/Post--Quantum-00B4A8?style=for-the-badge) 
+**Security & Crypto**
+![Post-Quantum](https://img.shields.io/badge/Post--Quantum-00B4A8?style=for-the-badge)
 ![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-7B1FA2?style=for-the-badge)
-**TEEs** • **TPM** • **XMSS**
+![TEE](https://img.shields.io/badge/TEE-FF5722?style=for-the-badge)
+![TPM](https://img.shields.io/badge/TPM-607D8B?style=for-the-badge)
+![XMSS](https://img.shields.io/badge/XMSS-9C27B0?style=for-the-badge)
 
-**Distributed Systems**  
-**BFT** • **Federated Learning** • **Sui Blockchain**
+**Distributed Systems**
+![BFT](https://img.shields.io/badge/BFT-2196F3?style=for-the-badge)
+![Federated_Learning](https://img.shields.io/badge/Federated_Learning-4CAF50?style=for-the-badge)
+![Sui](https://img.shields.io/badge/Sui-5C6BC0?style=for-the-badge)
 
 </div>
 
