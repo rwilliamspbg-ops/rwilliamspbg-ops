@@ -10,12 +10,13 @@
 ## 📊 Core Performance Metrics
 
 ```mermaid
-textBlocks
-    ┌──────────────────────────┬──────────────────────────┬──────────────────────────┐
-    │     NETWORK LATENCY      │     SIMULATION SCALE     │     ZK-PROOF TIMING      │
-    │        < 1.0 ms          │          10M +           │         ~ 10 ms          │
-    │   AF_XDP Zero-Copy Path  │   Byzantine-Resilient    │   Groth16 Input Matrix   │
-    └──────────────────────────┴──────────────────────────┴──────────────────────────┘
+graph LR
+    classDef metric fill:#111,stroke:#333,stroke-width:1px,color:#fff;
+
+    M1["🏎️ NETWORK LATENCY<br/><b>&lt; 1.0 ms</b><br/>AF_XDP Zero-Copy Path"]:::metric
+    M2["🌍 SIMULATION SCALE<br/><b>10M + Nodes</b><br/>Byzantine-Resilient"]:::metric
+    M3["🛡️ ZK-PROOF TIMING<br/><b>~ 10 ms</b><br/>Groth16 Input Matrix"]:::metric
+Performance Vector: Engineered for massive-scale federated learning, Byzantine-resilient coordination, and post-quantum secure agentic environments.
 ```
 
 
