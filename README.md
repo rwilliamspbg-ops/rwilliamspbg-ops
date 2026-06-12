@@ -25,7 +25,7 @@ Engineered for **massive-scale federated learning**, **Byzantine-resilient coord
 ---
 
 ## 🏢 Architectural System Topology
-
+```
 graph TD
     classDef suite fill:#1a1a2e,stroke:#4e54c8,stroke-width:2px,color:#fff;
     classDef nexus fill:#162447,stroke:#00b4d8,stroke-width:2px,color:#fff;
@@ -40,7 +40,7 @@ graph TD
     SAPM -->|Control Signals| NEXUS
     NEXUS -->|Data Ingestion| SMIP
     SMIP -->|Secure Execution Loops| TEE
-
+```
 Sovereign Mohawk Proto LLC designs *resilient, high-throughput, formally verified* infrastructure for cross-border federated learning. By combining kernel-bypass networking, hardware-rooted trust, and mathematically proven correctness, we deliver systems that scale globally without sacrificing privacy or verifiability.
 
 ---
