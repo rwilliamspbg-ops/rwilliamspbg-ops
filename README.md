@@ -2,7 +2,7 @@
   <!-- Banner -->
   <img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" 
        alt="Mohawk Nexus Banner" 
-       width="100%" 
+       width="75%" 
        style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.15);"/>
   
   <h1>👋 Hey, I'm rwilliamspbg-ops</h1>
