@@ -111,6 +111,27 @@
 
 <div align="center">
 
+---
+
+### 📦 Crates on crates.io
+
+My published Rust packages focus on **memory-safe**, **high-performance**, and **quantum-ready** infrastructure components.
+
+<div align="center">
+
+[![crates.io](https://img.shields.io/badge/All%20Crates-crates.io-000000?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/users/rwilliamspbg-ops)
+
+</div>
+
+**Featured Crates:**
+
+| Crate | Description | Version |
+|-------|-------------|---------|
+| [smp-tee-runtime]([https://crates.io/crates/rew-ops](https://crates.io/crates/smp-tee-runtime)) | Rust runtime for federated-learning aggregation | v0.1.0 |
+| [smp-zk-proofs]([https://crates.io/crates/secureops-rl](https://crates.io/crates/smp-zk-proofs)) | Rust library for verifiable aggregation ledgers in distributed spatial networks | 0.1.1 |
+
+> All crates emphasize zero-copy patterns, post-quantum readiness where applicable, and integration with TEE / kernel-bypass stacks.
+
 **Connect & Support**
 
 [🌐 Website](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) • 
