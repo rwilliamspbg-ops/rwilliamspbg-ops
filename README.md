@@ -109,10 +109,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&langs_count=8" alt="Top Languages" height="180"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=rwilliamspbg-ops&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
