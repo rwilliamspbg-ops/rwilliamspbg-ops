@@ -10,17 +10,23 @@
 **Founder @ Sovereign Mohawk Proto LLC**  
 Systems engineer building high-performance, memory-safe, and quantum-resistant infrastructure for distributed ML and networking.
 
-### Focus Areas
-- Kernel-bypass networking (AF_XDP, Rust/Go)
-- Trusted Execution Environments (TEE)
-- Post-quantum cryptography & zero-knowledge proofs
-- Byzantine Fault Tolerant federated learning
+### 🔍 Focus Areas
 
-### Featured Projects
-- **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** — Unified high-performance network stack
-- **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** — Scalable federated learning with formal verification
-- **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** — Hardened Rust runtime for confidential aggregation
-- **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** — Zero-copy AF_XDP datapath
+- **Kernel-bypass Networking** — AF_XDP, Rust & Go implementations
+- **Trusted Execution Environments (TEE)** — Confidential computing & remote attestation
+- **Post-Quantum Cryptography & Zero-Knowledge Proofs** — Quantum-resistant primitives and zk-SNARKs
+- **Byzantine Fault Tolerant Federated Learning** — Scalable, verifiable distributed ML
+
+### 🚀 Featured Projects
+
+| Project | Description | Key Technologies |
+|---------|-------------|------------------|
+| **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | Unified high-performance network stack | Rust, Go, AF_XDP, eBPF |
+| **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** | Scalable federated learning with formal verification | Rust, zk-SNARKs, BFT consensus |
+| **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened Rust runtime for confidential aggregation | Rust, TEE/TPM, memory safety |
+| **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy AF_XDP datapath | Rust, SIMD, AF_XDP |
+
+> **💡** Click project names for architecture diagrams, benchmarks, and setup guides.
 
 [Website](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) • [LinkedIn](https://www.linkedin.com/in/rwilliams-pa/) • [ORCID](https://orcid.org/0009-0005-1126-7004)
 
