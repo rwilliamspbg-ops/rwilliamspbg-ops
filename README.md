@@ -1,14 +1,34 @@
 <div align="center">
-  <!-- Banner -->
-  <img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" 
-       alt="Mohawk Nexus Banner" 
-       width="75%" 
-       style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.15);"/>
-  
+
+<!-- Banner -->
+<img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" 
+     alt="Mohawk Nexus Banner" 
+     width="80%" 
+     style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.15);"/>
+
 # rwilliamspbg-ops (Ryan)
 
 **Founder @ Sovereign Mohawk Proto LLC**  
-Systems engineer building high-performance, memory-safe, and quantum-resistant infrastructure for distributed ML and networking.
+*Systems Engineer building sovereign, memory-safe, and quantum-resistant infrastructure for distributed ML and high-performance networking.*
+
+---
+
+### Badges & Links
+[![GitHub Followers](https://img.shields.io/github/followers/rwilliamspbg-ops?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/rwilliamspbg-ops)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/LICENSE)
+[![Website](https://img.shields.io/badge/Website-Mohawk_Nexus-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rwilliams-pa/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%231EAEDB?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/rwilliamspbg-ops)
+
+</div>
+
+---
+
+**Building sovereign, quantum-resistant, high-performance infrastructure for distributed ML.**
+
+*Memory safe • Quantum ready • Sovereign by design.*
+
+---
 
 ### 🔍 Focus Areas
 
@@ -17,31 +37,19 @@ Systems engineer building high-performance, memory-safe, and quantum-resistant i
 - **Post-Quantum Cryptography & Zero-Knowledge Proofs** — Quantum-resistant primitives and zk-SNARKs
 - **Byzantine Fault Tolerant Federated Learning** — Scalable, verifiable distributed ML
 
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Key Technologies |
 |---------|-------------|------------------|
-| **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | Unified high-performance network stack | Rust, Go, AF_XDP, eBPF |
-| **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** | Scalable federated learning with formal verification | Rust, zk-SNARKs, BFT consensus |
-| **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened Rust runtime for confidential aggregation | Rust, TEE/TPM, memory safety |
-| **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy AF_XDP datapath | Rust, SIMD, AF_XDP |
+| **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | Unified high-performance network stack with kernel bypass | Rust, Go, AF_XDP, eBPF |
+| **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** | Scalable federated learning with formal verification | Rust, zk-SNARKs, BFT |
+| **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened Rust runtime for confidential aggregation | Rust, TEE, TPM |
+| **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy AF_XDP datapath | Rust, SIMD, AVX2 |
+| **[Sovereign Agentic Prediction Market](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)** | Autonomous agentic markets on Sui | TypeScript, Sui Move |
 
-> **💡** Click project names for architecture diagrams, benchmarks, and setup guides.
-
-[Website](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) • [LinkedIn](https://www.linkedin.com/in/rwilliams-pa/) • [ORCID](https://orcid.org/0009-0005-1126-7004)
-
-  <p>
-    <a href="https://github.com/sponsors/rwilliamspbg-ops">
-      <img src="https://img.shields.io/badge/Sponsor%20My%20Work-%231EAEDB?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor"/>
-    </a>
-    <a href="https://rwilliamspbg-ops.github.io/Mohawk-Nexus/">
-      <img src="https://img.shields.io/badge/Mohawk_Nexus-Website-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Website"/>
-    </a>
-    <a href="https://www.linkedin.com/in/rwilliams-pa/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-  </p>
-</div>
+> 💡 Click project names for architecture diagrams, benchmarks, and setup guides.
 
 ---
 
@@ -49,14 +57,14 @@ Systems engineer building high-performance, memory-safe, and quantum-resistant i
 
 - 🔭 Currently hardening **`smp-tee-runtime`** and scaling **`Mohawk-Nexus`** across multi-node clusters
 - 🌱 Researching **post-quantum zk-SNARKs** for privacy-preserving federated ML
-- 💬 Ask me about: Rust zero-copy networking, TEE remote attestation, Sui Move, or AF_XDP kernel bypass
-- ⚡ Fun fact: I design systems where the threat model assumes nation-state adversaries *and* quantum compute
+- 💬 Ask me about: Rust zero-copy networking, TEE remote attestation, AF_XDP, or Sui Move
+- ⚡ Fun fact: I design systems assuming nation-state adversaries *and* quantum compute
 
 ---
 
 ### 🔥 Contribution Highlights
 
-**4,179 contributions** in the last year across 11+ repositories
+**4,179 contributions** in the last year
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rwilliamspbg-ops&theme=dark&hide_border=true&background=0F172A" alt="GitHub Streak"/>
@@ -70,54 +78,25 @@ Systems engineer building high-performance, memory-safe, and quantum-resistant i
 
 <div align="center">
 
-**Languages & Core**
+**Languages**  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Systems & Infrastructure**
+**Systems & Performance**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Performance Engineering**
 ![AF_XDP](https://img.shields.io/badge/AF_XDP-FF0000?style=for-the-badge)
-![Zero-Copy](https://img.shields.io/badge/Zero--Copy-00C853?style=for-the-badge)
-![SIMD](https://img.shields.io/badge/SIMD__AVX2-FF9800?style=for-the-badge)
 ![eBPF](https://img.shields.io/badge/eBPF-6C4AB6?style=for-the-badge)
+![SIMD](https://img.shields.io/badge/SIMD-FF9800?style=for-the-badge)
 
-**Security & Cryptography**
+**Security & Cryptography**  
 ![Post-Quantum](https://img.shields.io/badge/Post--Quantum-00B4A8?style=for-the-badge)
 ![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-7B1FA2?style=for-the-badge)
 ![TEE](https://img.shields.io/badge/TEE-FF5722?style=for-the-badge)
-![TPM](https://img.shields.io/badge/TPM-607D8B?style=for-the-badge)
-![XMSS](https://img.shields.io/badge/XMSS-9C27B0?style=for-the-badge)
-
-**Distributed Systems & Web3**
-![BFT](https://img.shields.io/badge/BFT-2196F3?style=for-the-badge)
-![Federated_Learning](https://img.shields.io/badge/Federated_Learning-4CAF50?style=for-the-badge)
-![Sui](https://img.shields.io/badge/Sui-5C6BC0?style=for-the-badge)
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| 🔐 ⚡ 🛡️ | Project | Description | Key Tech |
-|:---:|---------|-------------|----------|
-| ⚡ | **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | High-performance unified network stack with kernel bypass | Rust, Go, AF_XDP, eBPF |
-| 🔐 | **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** | Scalable federated learning with BFT consensus & zk proofs | Rust, Python, zk-SNARKs |
-| 🛡️ | **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened TEE runtime for confidential compute workloads | Rust, TEE, TPM |
-| ⚡ | **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy Rust datapath with SIMD vectorization | Rust, SIMD, AVX2 |
-| 🌐 | **[Sovereign Agentic Prediction Market](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)** | Autonomous agentic markets on Sui blockchain | TypeScript, Sui, Move |
-
-</div>
-
-> 💡 **Tip:** Click any project name to view architecture diagrams, benchmarks, and installation guides.
 
 ---
 
@@ -130,23 +109,17 @@ Systems engineer building high-performance, memory-safe, and quantum-resistant i
 
 ---
 
-### 🌐 Connect & Support
-
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💰 **Sponsor** | [github.com/sponsors/rwilliamspbg-ops](https://github.com/sponsors/rwilliamspbg-ops) |
-| 🌐 **Website** | [Mohawk Nexus](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) |
-| 💼 **LinkedIn** | [linkedin.com/in/rwilliams-pa](https://www.linkedin.com/in/rwilliams-pa/) |
-| 📍 **Location** | Seattle, WA |
+**Connect & Support**
 
-</div>
+[🌐 Website](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) • 
+[💼 LinkedIn](https://www.linkedin.com/in/rwilliams-pa/) • 
+[💰 Sponsor](https://github.com/sponsors/rwilliamspbg-ops) • 
+[📍 Seattle, WA](https://en.wikipedia.org/wiki/Seattle)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&color=00E5FF&style=flat-square" alt="Profile Views"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&color=00E5FF&style=flat-square" alt="Profile Views"/>
 
 *Building systems that last — memory safe, quantum ready, and sovereign by design.*
+
+</div>
