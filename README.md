@@ -5,15 +5,24 @@
        width="75%" 
        style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.15);"/>
   
-  <h1>👋 Hey, I'm rwilliamspbg-ops</h1>
-  <p>
-    <strong>Founder @ Sovereign Mohawk Proto LLC</strong><br>
-    <em>Systems Engineer | Distributed ML Infrastructure | Cryptography</em>
-  </p>
-  <p>
-    Building sovereign, quantum-resistant, high-performance infrastructure.<br>
-    Memory safe • Quantum ready • Sovereign by design.
-  </p>
+  # rwilliamspbg-ops (Ryan)
+
+**Founder @ Sovereign Mohawk Proto LLC**  
+Systems engineer building high-performance, memory-safe, and quantum-resistant infrastructure for distributed ML and networking.
+
+### Focus Areas
+- Kernel-bypass networking (AF_XDP, Rust/Go)
+- Trusted Execution Environments (TEE)
+- Post-quantum cryptography & zero-knowledge proofs
+- Byzantine Fault Tolerant federated learning
+
+### Featured Projects
+- **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** — Unified high-performance network stack
+- **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** — Scalable federated learning with formal verification
+- **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** — Hardened Rust runtime for confidential aggregation
+- **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** — Zero-copy AF_XDP datapath
+
+[Website](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) • [LinkedIn](https://www.linkedin.com/in/rwilliams-pa/) • [ORCID](https://orcid.org/0009-0005-1126-7004)
 
   <p>
     <a href="https://github.com/sponsors/rwilliamspbg-ops">
