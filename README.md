@@ -10,7 +10,7 @@
 
 **Founder @ Sovereign Mohawk Proto LLC**  
 *Systems Engineer building sovereign, memory-safe, and quantum-resistant infrastructure for distributed ML and high-performance networking.*
-
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/033AecvrarhlCUai2OBSg7)
 ---
 
 ### Badges & Links
