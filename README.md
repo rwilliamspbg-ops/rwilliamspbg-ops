@@ -10,10 +10,11 @@
 
 **Founder @ Sovereign Mohawk Proto LLC**  
 *Systems Engineer building sovereign, memory-safe, and quantum-resistant infrastructure for distributed ML and high-performance networking.*
-[![Spotify](https://img.shields.io/badge/Spotify-Listen-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/033AecvrarhlCUai2OBSg7)
+
 ---
 
 ### Badges & Links
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/033AecvrarhlCUai2OBSg7)
 [![GitHub Followers](https://img.shields.io/github/followers/rwilliamspbg-ops?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/rwilliamspbg-ops)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/LICENSE)
 [![Website](https://img.shields.io/badge/Website-Mohawk_Nexus-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/)
