@@ -46,11 +46,11 @@
 | ----- | ----- | ----- |
 | [Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus) | Unified high-performance network stack with kernel bypass | Rust, Go, AF_XDP, eBPF |
 | [Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) | Scalable federated learning with formal verification | Rust, zk-SNARKs, BFT |
+| [Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning) | Byzantine-tolerant FL framework with streaming aggregation | Python, Go, TPM 2.0, Prometheus |
 | [smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime) | Hardened Rust runtime for confidential aggregation | Rust, TEE, TPM |
-| [Mohawk-Inference-Engine](https://github.com/rwilliamspbg-ops/Mohawk-Inference-Engine) | Lightweight, secure local inference with layer splitting | Python, PyQt6, PQC, mTLS |
+| [Mohawk-Inference-Engine](https://github.com/rwilliamspbg-ops/Mohawk-Inference-Engine) | Lightweight, secure local inference with layer splitting | Python, PyQt6, PQC, mTLS || [Ghostlink](https://github.com/rwilliamspbg-ops/Ghostlink) | Memory-safe, sovereign communications layer | Rust |
 | [SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust) | Zero-copy AF_XDP datapath | Rust, SIMD, AVX2 |
 | [Sovereign Agentic Prediction Market](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core) | Autonomous agentic markets on Sui | TypeScript, Sui Move |
-| [Ghostlink](https://github.com/rwilliamspbg-ops/Ghostlink) | Memory-safe, sovereign communications layer | Rust |
 
 > 💡 Click project names for architecture diagrams, benchmarks, and setup guides.
 
