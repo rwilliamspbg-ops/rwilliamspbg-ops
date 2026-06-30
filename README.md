@@ -131,16 +131,6 @@ My published Rust packages focus on **memory-safe**, **high-performance**, and *
 
 All crates emphasize zero-copy patterns, post-quantum readiness where applicable, and integration with TEE / kernel-bypass stacks.
 
-### Connect & Support
-
-🌐 [Website](https://rwilliamspbg-ops.github.io) • 💼 [LinkedIn](https://linkedin.com) • 💰 [Sponsor](https://github.com/sponsors/rwilliamspbg-ops) • 📍 Seattle, WA
-
-![Profile views](https://komarev.com/ghpvc/?username=rwilliamspbg-ops&color=00c7f2&style=flat-square&label=Profile+views)
-
-*Building systems that last — memory safe, quantum ready, and sovereign by design.*
-
-> All crates emphasize zero-copy patterns, post-quantum readiness where applicable, and integration with TEE / kernel-bypass stacks.
-
 **Connect & Support**
 
 [🌐 Website](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) • 
