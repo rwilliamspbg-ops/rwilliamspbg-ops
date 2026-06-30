@@ -113,7 +113,11 @@
 <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=22d3ee&label=◉_VISITS" alt="Profile views" />
 
 </div>
-
+<p align="center">
+  <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g">
+    <img src="https://scannables.scdn.co/v1/template/012345/652565/600" alt="Spotify Code" width="300" />
+  </a>
+</p>
 ---
 ### 🛠️ Tech Stack
 
