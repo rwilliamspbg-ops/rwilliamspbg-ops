@@ -116,7 +116,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g">
-    <img src="https://img.shields.io/badge/SPOTIFY-EPISODE_STREAM-1DB954?style=for-the-badge&logo=spotify&logoColor=black" alt="Stream Episode" height="40">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=🎙️+Now+Streaming+on+Spotify...;Series+Masterclass%3A+Sovereign+Mohawk;%26+The+Future+of+Private+Infrastructure;Click+here+to+listen+to+the+episode+🎧" alt="Typing Animation" />
   </a>
 </p>
 
