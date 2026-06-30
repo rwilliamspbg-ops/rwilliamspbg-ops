@@ -115,6 +115,32 @@
 </div>
 
 ---
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Systems & Performance**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AF_XDP](https://img.shields.io/badge/AF_XDP-FF0000?style=for-the-badge)
+![eBPF](https://img.shields.io/badge/eBPF-6C4AB6?style=for-the-badge)
+![SIMD](https://img.shields.io/badge/SIMD-FF9800?style=for-the-badge)
+
+**Security & Cryptography**  
+![Post-Quantum](https://img.shields.io/badge/Post--Quantum-00B4A8?style=for-the-badge)
+![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-7B1FA2?style=for-the-badge)
+![TEE](https://img.shields.io/badge/TEE-FF5722?style=for-the-badge)
+
+</div>
+
+---
+
 ## ◊ GITHUB ANALYTICS
 
 <div align="center">
