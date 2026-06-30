@@ -106,16 +106,10 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="195" />
+</p>
 
 ---
 
@@ -123,19 +117,17 @@
 
 My published Rust packages focus on **memory-safe**, **high-performance**, and **quantum-ready** infrastructure components.
 
-[![All Crates](https://img.shields.io/badge/all%20crates-crates.io-orange?style=flat-square)](https://crates.io/user/rwilliamspbg-ops)
-[![Registry](https://img.shields.io/badge/registry-crates.io-black?style=flat-square)](https://crates.io/dashboard)
+[![All Crates](https://img.shields.io/crates/v/smp-tee-runtime.svg?style=flat-square&color=orange&label=all%20crates)](https://crates.io/user/rwilliamspbg-ops)
+[![crates.io](https://img.shields.io/badge/registry-crates.io-black.svg?style=flat-square)](https://crates.io/dashboard)
 
 ### Featured Crates:
 
 | Crate | Description | Version | Downloads | Links |
 | :--- | :--- | :---: | :---: | :---: |
-| [**smp-zk-proofs**](https://crates.io/crates/smp-zk-proofs) | Verifiable aggregation ledgers built with zero-knowledge proofs (zk-SNARKs) | `v0.1.1` | ![Downloads](https://img.shields.io/crates/d/smp-zk-proofs?style=flat-square&color=blue&label=%20) | [📖 Docs](https://docs.rs/smp-zk-proofs) |
-| [**smp-tee-runtime**](https://crates.io/crates/smp-tee-runtime) | Rust runtime for federated-learning aggregation in Trusted Execution Environments (TEEs) | `v0.1.0` | ![Downloads](https://img.shields.io/crates/d/smp-tee-runtime?style=flat-square&color=blue&label=%20) | [📖 Docs](https://docs.rs/smp-tee-runtime) |
-| [**ghostlink-core**](https://crates.io/crates/ghostlink-core) | Core types and abstractions for the ghost-link secure transport layer | `v0.1.0-alpha.0` | ![Downloads](https://img.shields.io/crates/d/ghostlink-core?style=flat-square&color=blue&label=%20) | [📖 Docs](https://docs.rs/ghostlink-core) |
-| [**ghost-link**](https://crates.io/crates/ghost-link) | High-performance, zero-copy communication protocols and runtimes | `v0.1.0-alpha.0` | ![Downloads](https://img.shields.io/crates/d/ghost-link?style=flat-square&color=blue&label=%20) | [📖 Docs](https://docs.rs/ghost-link) |
-
-All crates emphasize zero-copy patterns, post-quantum readiness where applicable, and integration with TEE / kernel-bypass stacks.
+| [**smp-zk-proofs**](https://crates.io/crates/smp-zk-proofs) | Verifiable aggregation ledgers built with zero-knowledge proofs (zk-SNARKs) | `v0.1.1` | `31` | [📖 Docs](https://docs.rs/smp-zk-proofs) |
+| [**smp-tee-runtime**](https://crates.io/crates/smp-tee-runtime) | Rust runtime for federated-learning aggregation in Trusted Execution Environments (TEEs) | `v0.1.0` | `14` | [📖 Docs](https://docs.rs/smp-tee-runtime) |
+| [**ghostlink-core**](https://crates.io/crates/ghostlink-core) | Core types and abstractions for the ghost-link secure transport layer | `v0.1.0-alpha.0` | `15` | [📖 Docs](https://docs.rs/ghostlink-core) |
+| [**ghost-link**](https://crates.io/crates/ghost-link) | High-performance, zero-copy communication protocols and runtimes | `v0.1.0-alpha.0` | `10` | [📖 Docs](https://docs.rs/ghost-link) |
 
 All crates emphasize zero-copy patterns, post-quantum readiness where applicable, and integration with TEE / kernel-bypass stacks.
 
