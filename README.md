@@ -115,7 +115,7 @@
 </div>
 <p align="center">
   <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g">
-    <img src="https://scannables.scdn.co/v1/template/012345/652565/600" alt="Spotify Code" width="300" />
+    <img src="https://img.shields.io/badge/SPOTIFY-EPISODE_STREAM-1DB954?style=for-the-badge&logo=spotify&logoColor=black" alt="Stream Episode" height="40">
   </a>
 </p>
 ---
