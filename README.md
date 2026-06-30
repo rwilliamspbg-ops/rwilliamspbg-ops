@@ -87,11 +87,6 @@
     <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
   </circle>
 </svg>
-<p align="center">
-  <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g">
-    <img src="https://img.shields.io/badge/SPOTIFY-EPISODE_STREAM-1DB954?style=for-the-badge&logo=spotify&logoColor=black" alt="Stream Episode" height="40">
-  </a>
-</p>
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Founder+%40+Sovereign+Mohawk+Proto+LLC;Systems+Engineer+%7C+Rust+%7C+Go+%7C+Python;Building+quantum-resistant+infrastructure;Memory-safe+%E2%80%A2+Zero-copy+%E2%80%A2+Sovereign+by+design" alt="Typing Animation" />
 </h3>
@@ -114,10 +109,12 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=22d3ee&label=◉_VISITS" alt="Profile views" />
-
 </div>
-
+<p align="center">
+  <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g">
+    <img src="https://img.shields.io/badge/SPOTIFY-EPISODE_STREAM-1DB954?style=for-the-badge&logo=spotify&logoColor=black" alt="Stream Episode" height="40">
+  </a>
+</p>
 <p align="center">
   <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=🎙️+Now+Streaming+on+Spotify...;Series+Masterclass%3A+Sovereign+Mohawk;%26+The+Future+of+Private+Infrastructure;Click+here+to+listen+to+the+episode+🎧" alt="Typing Animation" />
@@ -291,7 +288,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 ---
-
+<img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=22d3ee&label=◉_VISITS" alt="Profile views" />
 ## ◇ CONNECT & SUPPORT
 
 <div align="center">
