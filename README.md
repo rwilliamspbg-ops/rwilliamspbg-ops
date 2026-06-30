@@ -12,6 +12,17 @@
 
 <div align="center">
 
+<!-- Banner -->
+<img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" 
+     alt="Mohawk Nexus Banner" 
+     width="80%" 
+     style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.15);"/>
+
+# rwilliamspbg-ops (Ryan)
+
+**Founder @ Sovereign Mohawk Proto LLC**  
+*Systems Engineer building sovereign, memory-safe, and quantum-resistant infrastructure for distributed ML and high-performance networking.*
+
 <!-- Animated Banner SVG -->
 <svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
