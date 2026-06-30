@@ -113,9 +113,7 @@
 <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=22d3ee&label=◉_VISITS" alt="Profile views" />
 
 </div>
-```bash
-$ identity-engine --stream-podcast
-```
+
 <p align="center">
   <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g">
     <img src="https://img.shields.io/badge/SPOTIFY-EPISODE_STREAM-1DB954?style=for-the-badge&logo=spotify&logoColor=black" alt="Stream Episode" height="40">
