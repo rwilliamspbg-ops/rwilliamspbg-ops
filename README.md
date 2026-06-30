@@ -104,35 +104,28 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
----
-
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
+</p>
 
 ---
 
-### 📦 Crates on crates.io
+## 📦 Crates on crates.io
 
 My published Rust packages focus on **memory-safe**, **high-performance**, and **quantum-ready** infrastructure components.
 
-<div align="center">
+[![All Crates](https://img.shields.io/crates/v/smp-tee-runtime.svg?style=flat-square&color=orange&label=all%20crates)](https://crates.io/user/rwilliamspbg-ops)
+[![crates.io](https://img.shields.io/badge/registry-crates.io-black.svg?style=flat-square)](https://crates.io/dashboard)
 
-[![crates.io](https://img.shields.io/badge/All%20Crates-crates.io-000000?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/users/rwilliamspbg-ops)
-
-</div>
-
-**Featured Crates:**
+### Featured Crates:
 
 | Crate | Description | Version | Links |
-|-------|-------------|---------|-------|
-| **[smp-tee-runtime](https://crates.io/crates/smp-tee-runtime)** | Rust runtime for federated-learning aggregation in TEEs | `v0.1.0` | [📖 Docs](https://docs.rs/smp-tee-runtime) |
-| **[smp-zk-proofs](https://crates.io/crates/smp-zk-proofs)** | Verifiable aggregation ledgers with zk-SNARKs | `0.1.1` | [📖 Docs](https://docs.rs/smp-zk-proofs) |
+| :--- | :--- | :---: | :---: |
+| [**smp-tee-runtime**](https://crates.io/crates/smp-tee-runtime) | Rust runtime for federated-learning aggregation in Trusted Execution Environments (TEEs) | `v0.1.0` | [📖 Docs](https://docs.rs/smp-tee-runtime) |
+| [**smp-zk-proofs**](https://crates.io/crates/smp-zk-proofs) | Verifiable aggregation ledgers built with zero-knowledge proofs (zk-SNARKs) | `v0.1.1` | [📖 Docs](https://docs.rs/smp-zk-proofs) |
 
 > All crates emphasize zero-copy patterns, post-quantum readiness where applicable, and integration with TEE / kernel-bypass stacks.
 
