@@ -106,10 +106,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -124,8 +122,20 @@ My published Rust packages focus on **memory-safe**, **high-performance**, and *
 
 | Crate | Description | Version | Links |
 | :--- | :--- | :---: | :---: |
+| [**ghost-link**](https://crates.io/crates/ghost-link) | Lightweight network transport primitives for asynchronous IPC communication channels | `0.1.0-alpha.0` | [📖 Docs](https://docs.rs/ghost-link) |
+| [**ghostlink-core**](https://crates.io/crates/ghostlink-core) | Core types, protocol states, and trait definitions for the ghost-link ecosystem | `0.1.0-alpha.0` | [📖 Docs](https://docs.rs/ghostlink-core) |
 | [**smp-tee-runtime**](https://crates.io/crates/smp-tee-runtime) | Rust runtime for federated-learning aggregation in Trusted Execution Environments (TEEs) | `v0.1.0` | [📖 Docs](https://docs.rs/smp-tee-runtime) |
 | [**smp-zk-proofs**](https://crates.io/crates/smp-zk-proofs) | Verifiable aggregation ledgers built with zero-knowledge proofs (zk-SNARKs) | `v0.1.1` | [📖 Docs](https://docs.rs/smp-zk-proofs) |
+
+All crates emphasize zero-copy patterns, post-quantum readiness where applicable, and integration with TEE / kernel-bypass stacks.
+
+### Connect & Support
+
+🌐 [Website](https://rwilliamspbg-ops.github.io) • 💼 [LinkedIn](https://linkedin.com) • 💰 [Sponsor](https://github.com/sponsors/rwilliamspbg-ops) • 📍 Seattle, WA
+
+![Profile views](https://komarev.com/ghpvc/?username=rwilliamspbg-ops&color=00c7f2&style=flat-square&label=Profile+views)
+
+*Building systems that last — memory safe, quantum ready, and sovereign by design.*
 
 > All crates emphasize zero-copy patterns, post-quantum readiness where applicable, and integration with TEE / kernel-bypass stacks.
 
