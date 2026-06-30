@@ -115,6 +115,58 @@
 </div>
 
 ---
+## ◊ GITHUB ANALYTICS
+
+<div align="center">
+
+<!-- Animated Stats Container -->
+<svg width="100%" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="statsBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e1b4b;stop-opacity:0.8" />
+    </linearGradient>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#22d3ee" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#statsBg)" rx="12" stroke="#22d3ee" stroke-width="1" stroke-opacity="0.3"/>
+  
+  <!-- Corner accents -->
+  <line x1="20" y1="20" x2="60" y2="20" stroke="#22d3ee" stroke-width="2" opacity="0.6"/>
+  <line x1="20" y1="20" x2="20" y2="60" stroke="#22d3ee" stroke-width="2" opacity="0.6"/>
+  <line x1="780" y1="20" x2="740" y2="20" stroke="#a78bfa" stroke-width="2" opacity="0.6"/>
+  <line x1="780" y1="20" x2="780" y2="60" stroke="#a78bfa" stroke-width="2" opacity="0.6"/>
+  <line x1="20" y1="400" x2="60" y2="400" stroke="#a78bfa" stroke-width="2" opacity="0.6"/>
+  <line x1="20" y1="400" x2="20" y2="360" stroke="#a78bfa" stroke-width="2" opacity="0.6"/>
+  <line x1="780" y1="400" x2="740" y2="400" stroke="#22d3ee" stroke-width="2" opacity="0.6"/>
+  <line x1="780" y1="400" x2="780" y2="360" stroke="#22d3ee" stroke-width="2" opacity="0.6"/>
+  
+  <text x="400" y="40" font-family="monospace" font-size="16" fill="#22d3ee" text-anchor="middle" filter="url(#neonGlow)">◈ SYSTEM METRICS ◈</text>
+</svg>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0f172a&title_color=22d3ee&icon_color=a78bfa&text_color=c4b5fd&border_radius=12" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=c4b5fd&border_radius=12&langs_count=8" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwilliamspbg-ops&theme=midnight-purple&hide_border=true&background=0f172a&stroke=22d3ee&ring=a78bfa&fire=ff6b6b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=22d3ee&sideNums=a78bfa&dates=64748b" width="75%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rwilliamspbg-ops&theme=react-dark&hide_border=true&area=true&bg_color=0f172a&color=22d3ee&line=a78bfa&point=ff6b6b" width="95%" />
+
+</div>
+
+---
 ## ▣ CORE INFRASTRUCTURE STACK
 
 > *Kernel-bypass networking, zero-copy datapaths, and formally verified transport.*
@@ -194,58 +246,6 @@
 
 ---
 
-## ◊ GITHUB ANALYTICS
-
-<div align="center">
-
-<!-- Animated Stats Container -->
-<svg width="100%" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="statsBg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e1b4b;stop-opacity:0.8" />
-    </linearGradient>
-    <filter id="neonGlow">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feFlood flood-color="#22d3ee" result="color"/>
-      <feComposite in="color" in2="blur" operator="in" result="glow"/>
-      <feMerge>
-        <feMergeNode in="glow"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#statsBg)" rx="12" stroke="#22d3ee" stroke-width="1" stroke-opacity="0.3"/>
-  
-  <!-- Corner accents -->
-  <line x1="20" y1="20" x2="60" y2="20" stroke="#22d3ee" stroke-width="2" opacity="0.6"/>
-  <line x1="20" y1="20" x2="20" y2="60" stroke="#22d3ee" stroke-width="2" opacity="0.6"/>
-  <line x1="780" y1="20" x2="740" y2="20" stroke="#a78bfa" stroke-width="2" opacity="0.6"/>
-  <line x1="780" y1="20" x2="780" y2="60" stroke="#a78bfa" stroke-width="2" opacity="0.6"/>
-  <line x1="20" y1="400" x2="60" y2="400" stroke="#a78bfa" stroke-width="2" opacity="0.6"/>
-  <line x1="20" y1="400" x2="20" y2="360" stroke="#a78bfa" stroke-width="2" opacity="0.6"/>
-  <line x1="780" y1="400" x2="740" y2="400" stroke="#22d3ee" stroke-width="2" opacity="0.6"/>
-  <line x1="780" y1="400" x2="780" y2="360" stroke="#22d3ee" stroke-width="2" opacity="0.6"/>
-  
-  <text x="400" y="40" font-family="monospace" font-size="16" fill="#22d3ee" text-anchor="middle" filter="url(#neonGlow)">◈ SYSTEM METRICS ◈</text>
-</svg>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0f172a&title_color=22d3ee&icon_color=a78bfa&text_color=c4b5fd&border_radius=12" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=c4b5fd&border_radius=12&langs_count=8" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwilliamspbg-ops&theme=midnight-purple&hide_border=true&background=0f172a&stroke=22d3ee&ring=a78bfa&fire=ff6b6b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=22d3ee&sideNums=a78bfa&dates=64748b" width="75%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rwilliamspbg-ops&theme=react-dark&hide_border=true&area=true&bg_color=0f172a&color=22d3ee&line=a78bfa&point=ff6b6b" width="95%" />
-
-</div>
-
----
 
 ## ◈ CAPABILITY MATRIX
 
