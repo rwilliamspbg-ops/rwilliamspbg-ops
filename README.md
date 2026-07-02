@@ -4,11 +4,73 @@
 
 # rwilliamspbg-ops (Ryan)
 
-*Founder @ Sovereign Mohawk Proto LLC* 
+**Founder @ Sovereign Mohawk Proto LLC**  
 *Systems Engineer building sovereign, memory-safe, and quantum-resistant infrastructure for distributed ML and high-performance networking.*
 
-`MOHAWK NEXUS >> SOVEREIGN • HIGH-PERFORMANCE • QUANTUM-RESISTANT`
-
+<!-- Animated Banner SVG -->
+<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1e1b4b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:1" />
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22d3ee" />
+      <stop offset="50%" style="stop-color:#a78bfa" />
+      <stop offset="100%" style="stop-color:#22d3ee" />
+      <animate attributeName="x1" values="0%;100%;0%" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;200%;100%" dur="4s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bannerGrad)" rx="12" />
+  <!-- Grid lines -->
+  <g opacity="0.1">
+    <line x1="0" y1="40" x2="800" y2="40" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="0" y1="80" x2="800" y2="80" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="0" y1="120" x2="800" y2="120" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="0" y1="160" x2="800" y2="160" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="100" y1="0" x2="100" y2="220" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="200" y1="0" x2="200" y2="220" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="300" y1="0" x2="300" y2="220" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="220" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="500" y1="0" x2="500" y2="220" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="220" stroke="#22d3ee" stroke-width="0.5"/>
+    <line x1="700" y1="0" x2="700" y2="220" stroke="#22d3ee" stroke-width="0.5"/>
+  </g>
+  <!-- Feather Icon -->
+  <g transform="translate(60, 60)" filter="url(#glow)">
+    <path d="M40 10 C40 10, 60 30, 60 60 C60 90, 40 110, 20 120 C20 120, 35 100, 35 70 C35 40, 20 20, 40 10 Z" fill="#a78bfa" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;0.6;0.9" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M40 10 C40 10, 50 35, 45 65 C45 95, 25 115, 20 120" stroke="#22d3ee" stroke-width="1.5" fill="none" opacity="0.8"/>
+  </g>
+  <!-- Title -->
+  <text x="400" y="90" font-family="monospace" font-size="42" font-weight="bold" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)">MOHAWK NEXUS</text>
+  <text x="400" y="125" font-family="monospace" font-size="14" fill="#94a3b8" text-anchor="middle" letter-spacing="4">SOVEREIGN • HIGH-PERFORMANCE • QUANTUM-RESISTANT</text>
+  <!-- Animated data stream -->
+  <circle cx="0" cy="180" r="2" fill="#22d3ee" opacity="0.8">
+    <animate attributeName="cx" values="0;800" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="190" r="2" fill="#a78bfa" opacity="0.8">
+    <animate attributeName="cx" values="0;800" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="200" r="2" fill="#22d3ee" opacity="0.8">
+    <animate attributeName="cx" values="0;800" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
 <br />
 
 
