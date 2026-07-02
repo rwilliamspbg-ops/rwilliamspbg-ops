@@ -153,19 +153,17 @@
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=tokyonight&hide_border=true" alt="Ryan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=tokyonight&hide_border=true" width="495" alt="Ryan's GitHub Stats" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="495" alt="Most Used Languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwilliamspbg-ops&theme=tokyonight&hide_border=true" alt="Ryan's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwilliamspbg-ops&theme=tokyonight&hide_border=true" width="495" alt="Ryan's GitHub Streak" />
 
 </div>
-
----
 
 ---
 ## ▣ CORE INFRASTRUCTURE STACK
