@@ -200,38 +200,52 @@
 ## ▣ CORE INFRASTRUCTURE STACK
 
 <div align="center">
-<p style="font-family:'Courier New', monospace; color:#22d3ee; letter-spacing: 2px; margin-bottom: 15px;">&nbsp;◉ ROTATING REPO SHOWCASE</p>
-<div style="display: flex; gap: 14px; overflow-x: auto; padding: 10px; max-width: 100%; -webkit-overflow-scrolling: touch;">
+  <p style="font-family:'Courier New', monospace; color:#22d3ee; letter-spacing: 2px; margin-bottom: 15px;">&nbsp;◉ ROTATING REPO SHOWCASE</p>
 
-<div style="background: linear-gradient(145deg, #0f172a, #1e1b4b); border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px; padding: 12px; min-width: 190px; max-width: 190px; text-align: left; flex-shrink: 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-<span style="color:#22d3ee; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">MOHAWK</span><br/>
-<strong style="color:#ffffff; font-size:10pt; display:block; margin: 4px 0 2px 0;">Mohawk-Nexus</strong>
-<small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust/Go • AF_XDP Kernel Bypass<br/>Unified network stack with Go control plane.</small>
-<a href="https://github.com/rwilliamspbg-ops/Mohawk-Nexus" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
-</div>
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <!-- Card 1 -->
+      <td width="200" valign="top" style="border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px;">
+        <span style="color:#22d3ee; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">MOHAWK</span><br/>
+        <strong style="font-size:10pt; display:block; margin: 4px 0 2px 0;">Mohawk-Nexus</strong>
+        <small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust/Go • AF_XDP Kernel Bypass<br/>Unified network stack with Go control plane.</small>
+        <a href="https://github.com/rwilliamspbg-ops/Mohawk-Nexus" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
+      </td>
+      
+      <!-- Spacer -->
+      <td width="10"></td>
 
-<div style="background: linear-gradient(145deg, #0f172a, #1e1b4b); border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px; padding: 12px; min-width: 190px; max-width: 190px; text-align: left; flex-shrink: 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-<span style="color:#dea584; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">PROTOCOLS</span><br/>
-<strong style="color:#ffffff; font-size:10pt; display:block; margin: 4px 0 2px 0;">SMIP-MWP-Rust</strong>
-<small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust • PQC KEX<br/>Zero-copy AF_XDP datapath with AES-256-GCM.</small>
-<a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
-</div>
+      <!-- Card 2 -->
+      <td width="200" valign="top" style="border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px;">
+        <span style="color:#dea584; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">PROTOCOLS</span><br/>
+        <strong style="font-size:10pt; display:block; margin: 4px 0 2px 0;">SMIP-MWP-Rust</strong>
+        <small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust • PQC KEX<br/>Zero-copy AF_XDP datapath with AES-256-GCM.</small>
+        <a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
+      </td>
 
-<div style="background: linear-gradient(145deg, #0f172a, #1e1b4b); border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px; padding: 12px; min-width: 190px; max-width: 190px; text-align: left; flex-shrink: 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-<span style="color:#ff6b6b; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">FL</span><br/>
-<strong style="color:#ffffff; font-size:10pt; display:block; margin: 4px 0 2px 0;">Sovereign-Mohawk-Proto</strong>
-<small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Python • BFT Verified<br/>10M-node FL with 10ms zk-SNARKs.</small>
-<a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
-</div>
+      <!-- Spacer -->
+      <td width="10"></td>
 
-<div style="background: linear-gradient(145deg, #0f172a, #1e1b4b); border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px; padding: 12px; min-width: 190px; max-width: 190px; text-align: left; flex-shrink: 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-<span style="color:#3fb950; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">LLM</span><br/>
-<strong style="color:#ffffff; font-size:10pt; display:block; margin: 4px 0 2px 0;">Ghostlink</strong>
-<small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust • Distributed<br/>Turn spare GPUs into a low-latency LLM surface.</small>
-<a href="https://github.com/rwilliamspbg-ops/Ghostlink" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
-</div>
+      <!-- Card 3 -->
+      <td width="200" valign="top" style="border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px;">
+        <span style="color:#ff6b6b; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">FL</span><br/>
+        <strong style="font-size:10pt; display:block; margin: 4px 0 2px 0;">Sovereign-Mohawk-Proto</strong>
+        <small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Python • BFT Verified<br/>10M-node FL with 10ms zk-SNARKs.</small>
+        <a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
+      </td>
 
-</div>
+      <!-- Spacer -->
+      <td width="10"></td>
+
+      <!-- Card 4 -->
+      <td width="200" valign="top" style="border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px;">
+        <span style="color:#3fb950; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">LLM</span><br/>
+        <strong style="font-size:10pt; display:block; margin: 4px 0 2px 0;">Ghostlink</strong>
+        <small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust • Distributed<br/>Turn spare GPUs into a low-latency LLM surface.</small>
+        <a href="https://github.com/rwilliamspbg-ops/Ghostlink" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
+      </td>
+    </tr>
+  </table>
 </div>
 ---
 
