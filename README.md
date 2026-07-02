@@ -71,6 +71,25 @@
     <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
   </circle>
 </svg>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Founder+%40+Sovereign+Mohawk+Proto+LLC;Systems+Engineer+%7C+Rust+%7C+Go+%7C+Python;Building+quantum-resistant+infrastructure;Memory-safe+%E2%80%A2+Zero-copy+%E2%80%A2+Sovereign+by+design" alt="Typing Animation" />
+</h3>
+
+<!-- Animated Badge Bar -->
+<p>
+  <a href="https://github.com/rwilliamspbg-ops?tab=repositories">
+    <img src="https://img.shields.io/badge/▣_REPOS-24+-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=1e1b4b&color=0f172a" />
+  </a>
+  <a href="https://crates.io/users/rwilliamspbg-ops">
+    <img src="https://img.shields.io/badge/⚙_CRATES-4_Published-0f172a?style=for-the-badge&logo=rust&logoColor=dea584&labelColor=1e1b4b&color=0f172a" />
+  </a>
+  <a href="https://github.com/rwilliamspbg-ops">
+    <img src="https://img.shields.io/badge/◈_CONTRIBUTIONS-4K+/year-0f172a?style=for-the-badge&logo=github&logoColor=3fb950&labelColor=1e1b4b&color=0f172a" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/◉_FOCUS-PQC_|_TEE_|_AF_XDP-0f172a?style=for-the-badge&labelColor=1e1b4b&color=0f172a&logoColor=ff6b6b" />
+  </a>
+</p>
 <br />
 
 
