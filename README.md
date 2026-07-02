@@ -302,15 +302,14 @@
 
 ---
 
-<!-- Terminal-style footer -->
-<div align="center">
+### 🖥️ MOHAWK-NEXUS SYSTEM MONITOR
 
-```bash
-$ ./mohawk-nexus --status
-[OK]  Kernel-bypass:   ACTIVE          |  AF_XDP ring:  READY
-[OK]  TEE Enclave:     SECURE          |  Attestation:  VERIFIED
-[OK]  PQC Handshake:   XMSS+ML-KEM768  |  Latency:      10ms
-[OK]  zk-SNARK Prover: ONLINE          |  BFT Consensus: SYNCED
-[OK]  Sovereign Mode:  ENABLED         |  Threat Model: NATION-STATE
+| SUBSYSTEM | STATUS | TELEMETRY PROTOCOL |
+| :--- | :---: | :--- |
+| **Kernel-Bypass Layer** | `ACTIVE` | `AF_XDP` Ring Buffer Ready |
+| **TEE Enclave Runtime** | `SECURE` | Hardware Attestation Verified |
+| **Post-Quantum Cryptography** | `ONLINE` | `XMSS` + `ML-KEM768` Key Exchange |
+| **zk-SNARK Aggregator** | `ONLINE` | Zero-Knowledge Prover Synced |
+| **Sovereign Mesh Network** | `ENABLED` | Threat Profile: `NATION-STATE` |
 
-> _
+---
