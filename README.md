@@ -199,15 +199,72 @@
 ---
 ## ▣ CORE INFRASTRUCTURE STACK
 
-> *Kernel-bypass networking, zero-copy datapaths, and formally verified transport.*
+<div align="center">
+  <p style="font-family:'Courier New', monospace; color:#22d3ee; letter-spacing: 2px;">&nbsp;◉ ROTATING REPO SHOWCASE</p>
+  
+  <!-- Carousel Container (Swipeable on GitHub) -->
+  <div class="carousel-container" style="display:flex; gap:12px; overflow-x:auto; padding:10px 5px; scrollbar-width:none; -webkit-overflow-scrolling:touch;">
+    
+    <!-- Card 1 -->
+    <div class="repo-card"> 
+      <span style="color:#22d3ee;font-size:8pt;font-family:monospace;">MOHAWK</span><br/>
+      <strong>Mohawk-Nexus</strong><br/>
+      <small>Rust/Go • AF_XDP Kernel Bypass<br/>Unified network stack with Go control plane.</small><br/>
+      <a href="https://github.com/rwilliamspbg-ops/Mohawk-Nexus">View →</a>
+    </div>
 
-| ◈ Repository | ◇ Language | ◈ Description | ⬡ Stars | ◇ License |
-|:-------------|:-----------|:-------------|:-------:|:---------:|
-| [**Mohawk-Nexus**](https://github.com/rwilliamspbg-ops/Mohawk-Nexus) | `Rust` `Go` | Unified high-performance network stack with AF_XDP kernel bypass, Go control plane + Rust datapath | ⭐ 2 | Other |
-| [**SMIP-MWP**](https://github.com/rwilliamspbg-ops/SMIP-MWP) | `Go` | Formally verified transport & routing protocol with hybrid PQC session security and zero-copy AF_XDP fast-path (Lean 4 proofs) | ⭐ 1 | Other |
-| [**SMIP-MWP-Rust**](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust) | `Rust` | Zero-copy AF_XDP datapath with AES-256-GCM + ChaCha20-Poly1305, lock-free routing, post-quantum KEX | ⭐ 6 | Other |
-| [**Ghostlink**](https://github.com/rwilliamspbg-ops/Ghostlink) | `Rust` | Turn spare local GPUs/CPUs into a low-latency, zero-config distributed LLM execution surface | ⭐ 1 | MIT |
+    <!-- Card 2 -->
+    <div class="repo-card"> 
+      <span style="color:#dea584;font-size:8pt;font-family:monospace;">PROTOCOLS</span><br/>
+      <strong>SMIP-MWP-Rust</strong><br/>
+      <small>Rust • PQC KEX<br/>Zero-copy AF_XDP datapath with AES-256-GCM.</small><br/>
+      <a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust">View →</a>
+    </div>
 
+    <!-- Card 3 -->
+    <div class="repo-card"> 
+      <span style="color:#ff6b6b;font-size:8pt;font-family:monospace;">FL</span><br/>
+      <strong>Sovereign-Mohawk-Proto</strong><br/>
+      <small>Python • BFT Verified<br/>10M-node FL with 10ms zk-SNARKs.</small><br/>
+      <a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto">View →</a>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="repo-card"> 
+      <span style="color:#3fb950;font-size:8pt;font-family:monospace;">LLM</span><br/>
+      <strong>Ghostlink</strong><br/>
+      <small>Rust • Distributed<br/>Turn spare GPUs into a low-latency LLM surface.</small><br/>
+      <a href="https://github.com/rwilliamspbg-ops/Ghostlink">View →</a>
+    </div>
+
+  </div>
+  
+  <!-- GitHub Compliant CSS Styles -->
+  <style>
+    .repo-card {
+      background: linear-gradient(145deg, #0f172a, #1e1b4b);
+      border: 1px solid rgba(34, 211, 238, 0.25);
+      border-radius: 8px;
+      padding: 10px;
+      min-width: 180px;
+      max-width: 180px;
+      text-align: left;
+      flex-shrink: 0;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .repo-card strong { color:#ffffff; font-size:9.5pt; display:block; margin: 2px 0; } 
+    .repo-card small { color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; height: 34px; overflow:hidden; margin-bottom:6px; } 
+    .repo-card a { color:#22d3ee; font-size:8pt; text-decoration:none; font-weight:bold; }
+    
+    /* Fixed Hover Configuration */
+    .repo-card:hover { 
+      transform: translateY(-4px); 
+      border-color: rgba(34, 211, 238, 0.6);
+      box-shadow: 0 4px 12px rgba(34, 211, 238, 0.15); 
+    }
+    .carousel-container::-webkit-scrollbar { display:none; } 
+  </style>
+</div>
 ---
 
 ## ◈ FEDERATED LEARNING & ML
