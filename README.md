@@ -11,7 +11,6 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=22d3ee&label=◉_VISITS" alt="Profile views" />
 
 <br /><br />
 
@@ -112,7 +111,7 @@
 | **VERSION:** `v0.1.1` <br><br> Verifiable aggregation ledgers built with zk-SNARKs. <br><br> <kbd>[Crates.io →](https://crates.io/crates/smp-zk-proofs)</kbd> | **VERSION:** `v0.1.0` <br><br> Secure TEE runtime environment for FL aggregation. <br><br> <kbd>[Crates.io →](https://crates.io/crates/smp-tee-runtime)</kbd> | **VERSION:** `v0.1.0-alpha.0` <br><br> Core cryptographic types for Ghostlink secure transport. <br><br> <kbd>[Crates.io →](https://crates.io/crates/ghostlink-core)</kbd> | **VERSION:** `v0.1.0-alpha.0` <br><br> High-speed zero-copy communication protocols. <br><br> <kbd>[Crates.io →](https://crates.io/crates/ghost-link)</kbd> |
 
 ---
-
+<img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=22d3ee&label=◉_VISITS" alt="Profile views" />
 ## 🖥️ MOHAWK-NEXUS SYSTEM MONITOR
 
 <div align="center">
