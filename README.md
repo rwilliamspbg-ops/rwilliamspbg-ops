@@ -153,10 +153,9 @@
 
 <br />
 
-[![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rwilliamspbg-ops&theme=tokyonight&hide_border=true&background=0f172a)](https://github.com/denvercoder1/github-readme-streak)
+[![GitHub Activities](https://img.shields.io/github/followers/rwilliamspbg-ops?label=FOLLOWERS&style=flat-square&color=22d3ee)](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops)
+[![GitHub Stars](https://img.shields.io/github/stars/rwilliamspbg-ops/rwilliamspbg-ops?label=PROFILE%20STARS&style=flat-square&color=a78bfa)](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/y/rwilliamspbg-ops/rwilliamspbg-ops?label=COMMIT%20VELOCITY&style=flat-square&color=22d3ee)](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops)
 
 </div>
 
