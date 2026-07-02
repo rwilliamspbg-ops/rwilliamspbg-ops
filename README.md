@@ -291,8 +291,6 @@
     </tr>
   </table>
 </div>
-
----
 ---
 
 ## ◈ FEDERATED LEARNING & ML
