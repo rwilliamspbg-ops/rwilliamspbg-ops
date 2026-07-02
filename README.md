@@ -285,61 +285,19 @@
 | <code>DISTRIBUTED ML / FL</code> | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 `100%` | `10M-node` • `Streaming Agg` |
 
 ---
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=22d3ee&label=◉_VISITS" alt="Profile views" />
+
 ## ◇ CONNECT & SUPPORT
 
-<div align="center">
+<p align="center">
+  <code>⚡ SYSTEM DISPATCH NODES ⚡</code>
+</p>
 
-<!-- Animated Footer SVG -->
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#22d3ee" />
-      <stop offset="50%" style="stop-color:#a78bfa" />
-      <stop offset="100%" style="stop-color:#22d3ee" />
-      <animate attributeName="x1" values="0%;100%;0%" dur="5s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="100%;200%;100%" dur="5s" repeatCount="indefinite" />
-    </linearGradient>
-  </defs>
-  
-  <text x="300" y="30" font-family="monospace" font-size="14" fill="#94a3b8" text-anchor="middle">◈ LINKS ◈</text>
-  
-  <a href="https://sovereignmohawkproto.com">
-    <text x="150" y="65" font-family="monospace" font-size="13" fill="url(#footerGrad)" text-anchor="middle">🌐 WEBSITE</text>
-  </a>
-  <text x="300" y="65" font-family="monospace" font-size="13" fill="#475569" text-anchor="middle">•</text>
-  <a href="https://linkedin.com/in/rwilliamspbg">
-    <text x="450" y="65" font-family="monospace" font-size="13" fill="url(#footerGrad)" text-anchor="middle">💼 LINKEDIN</text>
-  </a>
-  
-  <text x="300" y="95" font-family="monospace" font-size="12" fill="#64748b" text-anchor="middle" font-style="italic">
-    Building systems that last — memory safe, quantum ready, and sovereign by design.
-  </text>
-  
-  <!-- Animated underline -->
-  <line x1="200" y1="105" x2="400" y2="105" stroke="url(#footerGrad)" stroke-width="1" opacity="0.6">
-    <animate attributeName="x1" values="200;250;200" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="x2" values="400;350;400" dur="3s" repeatCount="indefinite"/>
-  </line>
-</svg>
+[<kbd>&nbsp; 🌐 WEBSITE &nbsp;</kbd>](https://sovereignmohawkproto.com) &nbsp;&nbsp;•&nbsp;&nbsp; [<kbd>&nbsp; 💼 LINKEDIN &nbsp;</kbd>](https://linkedin.com/in/rwilliamspbg) &nbsp;&nbsp;•&nbsp;&nbsp; [<kbd>&nbsp; 💰 SPONSOR &nbsp;</kbd>](https://github.com/sponsors/rwilliamspbg-ops)
 
-<br/>
+<br />
 
-📍 **Seattle, WA** • 💰 [**Sponsor**](https://github.com/sponsors/rwilliamspbg-ops)
-
-</div>
-
----
-
-<!-- Terminal-style footer -->
-<div align="center">
-
-```bash
-$ ./mohawk-nexus --status
-[OK]  Kernel-bypass:   ACTIVE  |  AF_XDP ring:  READY
-[OK]  TEE Enclave:     SECURE  |  Attestation:   VERIFIED
-[OK]  PQC Handshake:   XMSS+ML-KEM768  |  Latency:  10ms
-[OK]  zk-SNARK Prover: ONLINE  |  BFT Consensus: SYNCED
-[OK]  Sovereign Mode:  ENABLED |  Threat Model:  NATION-STATE
-
-> _
+```alt
+📍 Location: Seattle, WA  |  Mantra: Memory safe, quantum ready, sovereign by design.
