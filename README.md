@@ -225,66 +225,64 @@
 
 ---
 
-## ◇ SOVEREIGN GLOBAL VERTICALS
+## ◊ SOVEREIGN GLOBAL VERTICALS
 
-> *Policy-gated federated learning for domain-specific global intelligence without raw data sharing.*
+<p align="left">
+  <code><em>Policy-gated federated learning for domain-specific global intelligence without raw data sharing.</em></code>
+</p>
 
-| ◈ Vertical | ◈ Repository | ◇ Language | ◈ Focus |
-|:-----------|:-------------|:-----------|:--------|
-| 🌍 **Supply Chain** | [Sovereign_Mohawk_SupplyChain_Global](https://github.com/rwilliamspbg-ops/Sovereign_Mohawk_SupplyChain_Global) | `JavaScript` | Disruption prediction, carbon-compliant routing |
-| 🌱 **Climate** | [Sovereign_Mohawk_Climate_Global](https://github.com/rwilliamspbg-ops/Sovereign_Mohawk_Climate_Global) | `JavaScript` | Carbon tracking, risk analytics |
-| 🌾 **Agriculture** | [Sovereign_Mohawk_Agriculture_Global](https://github.com/rwilliamspbg-ops/Sovereign_Mohawk_Agriculture_Global) | `JavaScript` | Sustainable yields, climate resilience |
-| 🏥 **Oncology** | [Sovereign_Mohawk_Oncology_Global](https://github.com/rwilliamspbg-ops/Sovereign_Mohawk_Oncology_Global) | `Python` | HIPAA/GDPR-compliant healthcare AI |
+| 🌏 Supply Chain | 🌱 Climate | 🌾 Agriculture | 🩺 Oncology |
+| :--- | :--- | :--- | :--- |
+| **LANGUAGE:** JavaScript <br><br> Disruption prediction, carbon-compliant routing. <br><br> <kbd>[View Repo →](Sovereign_Mohawk_SupplyChain_Global)</kbd> | **LANGUAGE:** JavaScript <br><br> Carbon tracking, risk analytics. <br><br> <kbd>[View Repo →](Sovereign_Mohawk_Climate_Global)</kbd> | **LANGUAGE:** JavaScript <br><br> Sustainable yields, climate resilience. <br><br> <kbd>[View Repo →](Sovereign_Mohawk_Agriculture_Global)</kbd> | **LANGUAGE:** Python <br><br> HIPAA/GDPR-compliant healthcare AI. <br><br> <kbd>[View Repo →](Sovereign_Mohawk_Oncology_Global)</kbd> |
 
 ---
 
 ## ◉ CRYPTOGRAPHY & TEE
 
-> *Post-quantum primitives, confidential computing, and secure attestations.*
+<p align="left">
+  <code><em>Post-quantum primitives, confidential computing, and secure attestations.</em></code>
+</p>
 
-| ◈ Repository | ◇ Language | ◈ Description |
-|:-------------|:-----------|:-------------|
-| [**smp-tee-runtime**](https://github.com/rwilliamspbg-ops/smp-tee-runtime) | `Rust` | TEE-hardened FL aggregation runtime |
-| [**SovereignEdge-TEE-Agent**](https://github.com/rwilliamspbg-ops/SovereignEdge-TEE-Agent) | `Rust` | PQC edge agent with zero-copy offloading |
-| [**smp-zk-proofs**](https://github.com/rwilliamspbg-ops/smp-zk-proofs) | `Rust` | zk-SNARK verifiable aggregation ledgers |
-| [**Autonomous-Mapping**](https://github.com/rwilliamspbg-ops/Autonomous-Mapping) | `TypeScript` | ZK-biometric identity + ORB-SLAM3 spatial tracking |
-| [**Sovereign-Map-V2**](https://github.com/rwilliamspbg-ops/Sovereign-Map-V2) | `TypeScript` | Autonomous 3D mapping with ZK identity |
+| 🦀 SMP-TEE-RUNTIME | 🛡️ SOVEREIGNEDGE-TEE | 📜 SMP-ZK-PROOFS |
+| :--- | :--- | :--- |
+| **LANGUAGE:** Rust <br><br> TEE-hardened FL aggregation runtime. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/smp-tee-runtime)</kbd> | **LANGUAGE:** Rust <br><br> PQC edge agent with zero-copy offloading. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/SovereignEdge-TEE-Agent)</kbd> | **LANGUAGE:** Rust <br><br> zk-SNARK verifiable aggregation ledgers. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/smp-zk-proofs)</kbd> |
+
+| 🤖 AUTONOMOUS-MAPPING | 🗺️ SOVEREIGN-MAP-V2 | |
+| :--- | :--- | :--- |
+| **LANGUAGE:** TypeScript <br><br> ZK-biometric identity + ORB-SLAM3 spatial tracking. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/Autonomous-Mapping)</kbd> | **LANGUAGE:** TypeScript <br><br> Autonomous 3D mapping with ZK identity. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/Sovereign-Map-V2)</kbd> | |
 
 ---
 
 ## ◆ CREATIVE & EXPERIMENTAL
 
-| ◈ Repository | ◇ Language | ◈ Description |
-|:-------------|:-----------|:-------------|
-| [**SMP_Novels**](https://github.com/rwilliamspbg-ops/SMP_Novels) | `JavaScript` | AI-orchestrated sci-fi narrative with WASM sandboxing & BFT consensus |
-| [**Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core**](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core) | `JavaScript` | BFT prediction market aggregator on Sui with kernel-bypass networking |
-| [Notebook LM Open](https://github.com/rwilliamspbg-ops) | `TypeScript` | Open-source Notebook LM with extended flexibility |
+| 📚 SMP_NOVELS | 📈 SAPM-ON-SUI-CORE | 📝 NOTEBOOK LM OPEN |
+| :--- | :--- | :--- |
+| **LANGUAGE:** JavaScript <br><br> AI-orchestrated sci-fi narrative featuring WASM sandboxing and BFT consensus architectures. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/SMP_Novels)</kbd> | **LANGUAGE:** JavaScript <br><br> BFT prediction market aggregator deployed on Sui with kernel-bypass networking protocols. <br><br> <kbd>[View Market →](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)</kbd> | **LANGUAGE:** TypeScript <br><br> Open-source alternative to Notebook LM designed for extended flexibility and local ingestion. <br><br> <kbd>[View System →](https://github.com/rwilliamspbg-ops)</kbd> |
 
 ---
 
 ## ⚙ PUBLISHED CRATES
 
-> *Memory-safe, high-performance, quantum-ready Rust components.*
+<p align="left">
+  <code><em>Memory-safe, high-performance, quantum-ready Rust components.</em></code>
+</p>
 
-| ◈ Crate | ◇ Version | ⬡ Downloads | ◈ Description |
-|:--------|:---------:|:-----------:|:--------------|
-| [**smp-zk-proofs**](https://crates.io/crates/smp-zk-proofs) | `v0.1.1` | `31` | Verifiable aggregation ledgers with zk-SNARKs |
-| [**smp-tee-runtime**](https://crates.io/crates/smp-tee-runtime) | `v0.1.0` | `14` | TEE runtime for FL aggregation |
-| [**ghostlink-core**](https://crates.io/crates/ghostlink-core) | `v0.1.0-alpha.0` | `15` | Core types for Ghostlink secure transport |
-| [**ghost-link**](https://crates.io/crates/ghost-link) | `v0.1.0-alpha.0` | `10` | Zero-copy communication protocols |
+| 📜 smp-zk-proofs | 🦀 smp-tee-runtime | ⛓️ ghostlink-core | 🔌 ghost-link |
+| :--- | :--- | :--- | :--- |
+| **VERSION:** `v0.1.1` <br><br> Verifiable aggregation ledgers built with zk-SNARKs. <br><br> <kbd>[Crates.io →](https://crates.io/crates/smp-zk-proofs)</kbd> | **VERSION:** `v0.1.0` <br><br> Secure TEE runtime environment for FL aggregation. <br><br> <kbd>[Crates.io →](https://crates.io/crates/smp-tee-runtime)</kbd> | **VERSION:** `v0.1.0-alpha.0` <br><br> Core cryptographic types for Ghostlink secure transport. <br><br> <kbd>[Crates.io →](https://crates.io/crates/ghostlink-core)</kbd> | **VERSION:** `v0.1.0-alpha.0` <br><br> High-speed zero-copy communication protocols. <br><br> <kbd>[Crates.io →](https://crates.io/crates/ghost-link)</kbd> |
 
 ---
 
 
 ## ◈ CAPABILITY MATRIX
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  KERNEL-BYPASS NETWORKING    ████████████████████░  AF_XDP • eBPF • Rust/Go  ║
-║  TRUSTED EXECUTION ENVS      █████████████████░░░  TEE • TPM 2.0 • SGX/TDX   ║
-║  POST-QUANTUM CRYPTOGRAPHY   ██████████████████░░  ML-KEM • XMSS • zk-SNARKs ║
-║  BYZANTINE FAULT TOLERANCE   ███████████████████░  BFT • Formal Verification ║
-║  DISTRIBUTED ML / FL         ████████████████████  10M-node • Streaming Agg  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+| NATIVE RUNTIME MATRIX | STABILITY DEPLOYMENT | STRUCTURAL ARCHITECTURE |
+| :--- | :--- | :--- |
+| <code>KERNEL-BYPASS NETWORKING</code> | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `90%` | `AF_XDP` • `eBPF` • `Rust/Go` |
+| <code>TRUSTED EXECUTION ENVS</code> | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%` | `TEE` • `TPM 2.0` • `SGX/TDX` |
+| <code>POST-QUANTUM CRYPTO</code> | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `90%` | `ML-KEM` • `XMSS` • `zk-SNARKs` |
+| <code>BYZANTINE FAULT TOLERANCE</code> | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 `100%` | `BFT` • `Formal Verification` |
+| <code>DISTRIBUTED ML / FL</code> | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 `100%` | `10M-node` • `Streaming Agg` |
 
 ---
 <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=22d3ee&label=◉_VISITS" alt="Profile views" />
