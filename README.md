@@ -149,13 +149,11 @@
 
 <div align="center">
 
-<code>📊 ENGINE METRICS</code>
-
-<br />
-
-[![GitHub Activities](https://img.shields.io/github/followers/rwilliamspbg-ops?label=FOLLOWERS&style=flat-square&color=22d3ee)](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops)
-[![GitHub Stars](https://img.shields.io/github/stars/rwilliamspbg-ops/rwilliamspbg-ops?label=PROFILE%20STARS&style=flat-square&color=a78bfa)](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops)
-[![GitHub Commits](https://img.shields.io/github/commit-activity/y/rwilliamspbg-ops/rwilliamspbg-ops?label=COMMIT%20VELOCITY&style=flat-square&color=22d3ee)](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops)
+| CORE METRICS | TELEMETRY DATA | ENGINE LINK |
+| :--- | :--- | :--- |
+| **Engine Velocity** | `Active Development` | [View Profile Commits](https://github.com/rwilliamspbg-ops) |
+| **Network Footprint** | `Verified Public Repos` | [Explore Repositories](https://github.com/rwilliamspbg-ops?tab=repositories) |
+| **Core Architecture** | `Systems / Post-Quantum / FL` | [Inspect Tech Stack](#-capability-matrix) |
 
 </div>
 
