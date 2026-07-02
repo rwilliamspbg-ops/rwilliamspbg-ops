@@ -147,9 +147,13 @@
 
 ## ◊ GITHUB ANALYTICS
 
-| 📊 METRICS | 🚀 COMMITS | 🧬 LANGS |
+<p align="left">
+  <code><em>Live telemetry logging for public systems, commit velocities, and language execution.</em></code>
+</p>
+
+| 📊 ENGINE METRICS | 🚀 CODEBASE STREAM | 🧬 COMPILER CORE |
 | :--- | :--- | :--- |
-| **ENGINE VELOCITY** <br><br> Core contributions and active codebase refactors. <br><br> <kbd>[View Commits →](https://github.com/rwilliamspbg-ops?tab=overview)</kbd> | **REPOS & CRATES** <br><br> 24+ Secure repositories published with 4 production crates. <br><br> <kbd>[Explore Repos →](https://github.com/rwilliamspbg-ops?tab=repositories)</kbd> | **TECH STACK** <br><br> Native systems execution: Rust, Go, Python, and TypeScript. <br><br> <kbd>[Inspect Core →](#-capability-matrix)</kbd> |
+| **METRIC TYPE:** Dev Velocity <br><br> **QUANTUM CAPACITY:** <br> 4,000+ Commits / Year <br><br> <kbd>[View Commits →](https://github.com/rwilliamspbg-ops?tab=overview)</kbd> | **METRIC TYPE:** Repositories <br><br> **PUBLISHED MODULES:** <br> 24+ Active Public Repos <br><br> <kbd>[Explore Repos →](https://github.com/rwilliamspbg-ops?tab=repositories)</kbd> | **METRIC TYPE:** Environment <br><br> **PRIMARY RUNTIMES:** <br> Rust • Go • TS • Python <br><br> <kbd>[Inspect Stack →](#-capability-matrix)</kbd> |
 
 ---
 ## ▣ CORE INFRASTRUCTURE STACK
