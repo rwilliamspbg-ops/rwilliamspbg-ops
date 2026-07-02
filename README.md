@@ -138,11 +138,53 @@
   <code><em>◉ ROTATING REPO SHOWCASE</em></code>
 </p>
 
-| 🐺 MOHAWK-NEXUS | 🛡️ SMIP-MWP-RUST | 🌐 SOVEREIGN-MOHAWK | 🔮 GHOSTLINK |
-| :--- | :--- | :--- | :--- |
-| **SYSTEM TYPE:** Kernel-Bypass <br><br> Kernel bypass activates Go control plane using AF_XDP high-speed rings. <br><br> <kbd>[View System →](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)</kbd> | **PROTOCOL TYPE:** Crypto / ZK <br><br> Zero-copy datapath executing memory-safe post-quantum cryptography. <br><br> <kbd>[View Protocol →](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)</kbd> | **VERTICAL TYPE:** Federated ML <br><br> 10M-node Byzantine fault-tolerant streaming aggregation infrastructure. <br><br> <kbd>[View Vertical →](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)</kbd> | **INFERENCE TYPE:** Edge LLM <br><br> Distributed local surface splitting layers across distributed edge nodes. <br><br> <kbd>[View Inference →](https://github.com/rwilliamspbg-ops/Ghostlink)</kbd> |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px;">
 
----
+  <!-- Card 1 -->
+  <div style="background: #0f172a; border: 1px solid #334155; border-radius: 16px; padding: 24px; transition: all 0.3s ease; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #60a5fa, #a78bfa);"></div>
+    <h3 style="margin: 0 0 12px 0; color: #e0f2fe; font-size: 1.35rem;">🐺 MOHAWK-NEXUS</h3>
+    <p style="color: #60a5fa; font-size: 0.9rem; font-weight: 600; margin: 8px 0 16px 0;">SYSTEM TYPE: Kernel-Bypass</p>
+    <p style="color: #94a3b8; line-height: 1.55;">Kernel bypass activates Go control plane using AF_XDP high-speed rings.</p>
+    <p style="margin-top: 24px;">
+      <a href="https://github.com/rwilliamspbg-ops/Mohawk-Nexus" style="background: #1e2937; color: #60a5fa; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-size: 0.95rem; border: 1px solid #334155;">View System →</a>
+    </p>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="background: #0f172a; border: 1px solid #334155; border-radius: 16px; padding: 24px; transition: all 0.3s ease; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #c084fc, #f472b6);"></div>
+    <h3 style="margin: 0 0 12px 0; color: #e0f2fe; font-size: 1.35rem;">🛡️ SMIP-MWP-RUST</h3>
+    <p style="color: #c084fc; font-size: 0.9rem; font-weight: 600; margin: 8px 0 16px 0;">PROTOCOL TYPE: Crypto / ZK</p>
+    <p style="color: #94a3b8; line-height: 1.55;">Zero-copy datapath executing memory-safe post-quantum cryptography.</p>
+    <p style="margin-top: 24px;">
+      <a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust" style="background: #1e2937; color: #c084fc; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-size: 0.95rem; border: 1px solid #334155;">View Protocol →</a>
+    </p>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="background: #0f172a; border: 1px solid #334155; border-radius: 16px; padding: 24px; transition: all 0.3s ease; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #34d399, #60a5fa);"></div>
+    <h3 style="margin: 0 0 12px 0; color: #e0f2fe; font-size: 1.35rem;">🌐 SOVEREIGN-MOHAWK</h3>
+    <p style="color: #34d399; font-size: 0.9rem; font-weight: 600; margin: 8px 0 16px 0;">VERTICAL TYPE: Federated ML</p>
+    <p style="color: #94a3b8; line-height: 1.55;">10M-node Byzantine fault-tolerant streaming aggregation infrastructure.</p>
+    <p style="margin-top: 24px;">
+      <a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto" style="background: #1e2937; color: #34d399; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-size: 0.95rem; border: 1px solid #334155;">View Vertical →</a>
+    </p>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="background: #0f172a; border: 1px solid #334155; border-radius: 16px; padding: 24px; transition: all 0.3s ease; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #f472b6, #fb923c);"></div>
+    <h3 style="margin: 0 0 12px 0; color: #e0f2fe; font-size: 1.35rem;">🔮 GHOSTLINK</h3>
+    <p style="color: #f472b6; font-size: 0.9rem; font-weight: 600; margin: 8px 0 16px 0;">INFERENCE TYPE: Edge LLM</p>
+    <p style="color: #94a3b8; line-height: 1.55;">Distributed local surface splitting layers across distributed edge nodes.</p>
+    <p style="margin-top: 24px;">
+      <a href="https://github.com/rwilliamspbg-ops/Ghostlink" style="background: #1e2937; color: #f472b6; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-size: 0.95rem; border: 1px solid #334155;">View Inference →</a>
+    </p>
+  </div>
+
+</div>
 
 ## ◈ FEDERATED LEARNING & ML
 <p align="left">
