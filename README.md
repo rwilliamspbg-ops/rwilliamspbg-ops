@@ -147,23 +147,9 @@
 
 ## ◊ GITHUB ANALYTICS
 
-<div align="center">
-
-<code>📊 ENGINE METRICS</code>
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=tokyonight&hide_border=true" width="495" alt="Ryan's GitHub Stats" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="495" alt="Most Used Languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwilliamspbg-ops&theme=tokyonight&hide_border=true" width="495" alt="Ryan's GitHub Streak" />
-
-</div>
+| 📊 METRICS | 🚀 COMMITS | 🧬 LANGS |
+| :--- | :--- | :--- |
+| **ENGINE VELOCITY** <br><br> Core contributions and active codebase refactors. <br><br> <kbd>[View Commits →](https://github.com/rwilliamspbg-ops?tab=overview)</kbd> | **REPOS & CRATES** <br><br> 24+ Secure repositories published with 4 production crates. <br><br> <kbd>[Explore Repos →](https://github.com/rwilliamspbg-ops?tab=repositories)</kbd> | **TECH STACK** <br><br> Native systems execution: Rust, Go, Python, and TypeScript. <br><br> <kbd>[Inspect Core →](#-capability-matrix)</kbd> |
 
 ---
 ## ▣ CORE INFRASTRUCTURE STACK
