@@ -149,13 +149,23 @@
 
 <div align="center">
 
-| CORE METRICS | TELEMETRY DATA | ENGINE LINK |
-| :--- | :--- | :--- |
-| **Engine Velocity** | `Active Development` | [View Profile Commits](https://github.com/rwilliamspbg-ops) |
-| **Network Footprint** | `Verified Public Repos` | [Explore Repositories](https://github.com/rwilliamspbg-ops?tab=repositories) |
-| **Core Architecture** | `Systems / Post-Quantum / FL` | [Inspect Tech Stack](#-capability-matrix) |
+<code>📊 ENGINE METRICS</code>
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=tokyonight&hide_border=true" alt="Ryan's GitHub Stats" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwilliamspbg-ops&theme=tokyonight&hide_border=true" alt="Ryan's GitHub Streak" />
 
 </div>
+
+---
 
 ---
 ## ▣ CORE INFRASTRUCTURE STACK
