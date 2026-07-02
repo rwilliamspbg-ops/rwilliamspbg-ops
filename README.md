@@ -200,70 +200,44 @@
 ## ▣ CORE INFRASTRUCTURE STACK
 
 <div align="center">
-  <p style="font-family:'Courier New', monospace; color:#22d3ee; letter-spacing: 2px;">&nbsp;◉ ROTATING REPO SHOWCASE</p>
+  <p style="font-family:'Courier New', monospace; color:#22d3ee; letter-spacing: 2px; margin-bottom: 15px;">&nbsp;◉ ROTATING REPO SHOWCASE</p>
   
-  <!-- Carousel Container (Swipeable on GitHub) -->
-  <div class="carousel-container" style="display:flex; gap:12px; overflow-x:auto; padding:10px 5px; scrollbar-width:none; -webkit-overflow-scrolling:touch;">
+  <!-- Flex Container for Horizontal Scrolling -->
+  <div style="display: flex; gap: 14px; overflow-x: auto; padding: 10px; max-width: 100%; -webkit-overflow-scrolling: touch;">
     
     <!-- Card 1 -->
-    <div class="repo-card"> 
-      <span style="color:#22d3ee;font-size:8pt;font-family:monospace;">MOHAWK</span><br/>
-      <strong>Mohawk-Nexus</strong><br/>
-      <small>Rust/Go • AF_XDP Kernel Bypass<br/>Unified network stack with Go control plane.</small><br/>
-      <a href="https://github.com/rwilliamspbg-ops/Mohawk-Nexus">View →</a>
+    <div style="background: linear-gradient(145deg, #0f172a, #1e1b4b); border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px; padding: 12px; min-width: 190px; max-width: 190px; text-align: left; flex-shrink: 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);"> 
+      <span style="color:#22d3ee; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">MOHAWK</span><br/>
+      <strong style="color:#ffffff; font-size:10pt; display:block; margin: 4px 0 2px 0;">Mohawk-Nexus</strong>
+      <small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust/Go • AF_XDP Kernel Bypass<br/>Unified network stack with Go control plane.</small>
+      <a href="https://github.com/rwilliamspbg-ops/Mohawk-Nexus" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
     </div>
 
     <!-- Card 2 -->
-    <div class="repo-card"> 
-      <span style="color:#dea584;font-size:8pt;font-family:monospace;">PROTOCOLS</span><br/>
-      <strong>SMIP-MWP-Rust</strong><br/>
-      <small>Rust • PQC KEX<br/>Zero-copy AF_XDP datapath with AES-256-GCM.</small><br/>
-      <a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust">View →</a>
+    <div style="background: linear-gradient(145deg, #0f172a, #1e1b4b); border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px; padding: 12px; min-width: 190px; max-width: 190px; text-align: left; flex-shrink: 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);"> 
+      <span style="color:#dea584; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">PROTOCOLS</span><br/>
+      <strong style="color:#ffffff; font-size:10pt; display:block; margin: 4px 0 2px 0;">SMIP-MWP-Rust</strong>
+      <small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust • PQC KEX<br/>Zero-copy AF_XDP datapath with AES-256-GCM.</small>
+      <a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
     </div>
 
     <!-- Card 3 -->
-    <div class="repo-card"> 
-      <span style="color:#ff6b6b;font-size:8pt;font-family:monospace;">FL</span><br/>
-      <strong>Sovereign-Mohawk-Proto</strong><br/>
-      <small>Python • BFT Verified<br/>10M-node FL with 10ms zk-SNARKs.</small><br/>
-      <a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto">View →</a>
+    <div style="background: linear-gradient(145deg, #0f172a, #1e1b4b); border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px; padding: 12px; min-width: 190px; max-width: 190px; text-align: left; flex-shrink: 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);"> 
+      <span style="color:#ff6b6b; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">FL</span><br/>
+      <strong style="color:#ffffff; font-size:10pt; display:block; margin: 4px 0 2px 0;">Sovereign-Mohawk-Proto</strong>
+      <small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Python • BFT Verified<br/>10M-node FL with 10ms zk-SNARKs.</small>
+      <a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
     </div>
 
     <!-- Card 4 -->
-    <div class="repo-card"> 
-      <span style="color:#3fb950;font-size:8pt;font-family:monospace;">LLM</span><br/>
-      <strong>Ghostlink</strong><br/>
-      <small>Rust • Distributed<br/>Turn spare GPUs into a low-latency LLM surface.</small><br/>
-      <a href="https://github.com/rwilliamspbg-ops/Ghostlink">View →</a>
+    <div style="background: linear-gradient(145deg, #0f172a, #1e1b4b); border: 1px solid rgba(34, 211, 238, 0.3); border-radius: 8px; padding: 12px; min-width: 190px; max-width: 190px; text-align: left; flex-shrink: 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);"> 
+      <span style="color:#3fb950; font-size:8pt; font-family:monospace; font-weight:bold; letter-spacing:1px;">LLM</span><br/>
+      <strong style="color:#ffffff; font-size:10pt; display:block; margin: 4px 0 2px 0;">Ghostlink</strong>
+      <small style="color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; margin-bottom:8px;">Rust • Distributed<br/>Turn spare GPUs into a low-latency LLM surface.</small>
+      <a href="https://github.com/rwilliamspbg-ops/Ghostlink" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold;">View →</a>
     </div>
 
   </div>
-  
-  <!-- GitHub Compliant CSS Styles -->
-  <style>
-    .repo-card {
-      background: linear-gradient(145deg, #0f172a, #1e1b4b);
-      border: 1px solid rgba(34, 211, 238, 0.25);
-      border-radius: 8px;
-      padding: 10px;
-      min-width: 180px;
-      max-width: 180px;
-      text-align: left;
-      flex-shrink: 0;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
-    .repo-card strong { color:#ffffff; font-size:9.5pt; display:block; margin: 2px 0; } 
-    .repo-card small { color:#94a3b8; font-size:7.5pt; display:block; line-height:1.3; height: 34px; overflow:hidden; margin-bottom:6px; } 
-    .repo-card a { color:#22d3ee; font-size:8pt; text-decoration:none; font-weight:bold; }
-    
-    /* Fixed Hover Configuration */
-    .repo-card:hover { 
-      transform: translateY(-4px); 
-      border-color: rgba(34, 211, 238, 0.6);
-      box-shadow: 0 4px 12px rgba(34, 211, 238, 0.15); 
-    }
-    .carousel-container::-webkit-scrollbar { display:none; } 
-  </style>
 </div>
 ---
 
