@@ -138,41 +138,10 @@
   <code><em>◉ ROTATING REPO SHOWCASE</em></code>
 </p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 28px; margin: 28px 0;">
+| 🐺 MOHAWK-NEXUS | 🛡️ SMIP-MWP-RUST | 🌐 SOVEREIGN-MOHAWK | 🔮 GHOSTLINK |
+| :--- | :--- | :--- | :--- |
+| **SYSTEM TYPE:** Kernel-Bypass <br><br> Kernel bypass activates Go control plane using AF_XDP high-speed rings. <br><br> <kbd>[View System →](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)</kbd> | **PROTOCOL TYPE:** Crypto / ZK <br><br> Zero-copy datapath executing memory-safe post-quantum cryptography. <br><br> <kbd>[View Protocol →](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)</kbd> | **VERTICAL TYPE:** Federated ML <br><br> 10M-node Byzantine fault-tolerant streaming aggregation infrastructure. <br><br> <kbd>[View Vertical →](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)</kbd> | **INFERENCE TYPE:** Edge LLM <br><br> Distributed local surface splitting layers across distributed edge nodes. <br><br> <kbd>[View Inference →](https://github.com/rwilliamspbg-ops/Ghostlink)</kbd> |
 
-  <!-- Legendary Card -->
-  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border: 3px solid transparent; border-radius: 20px; padding: 24px; position: relative; overflow: hidden; transition: all 0.4s ease; box-shadow: 0 0 30px rgba(139, 92, 246, 0.4);">
-    <div style="position: absolute; inset: 0; background: linear-gradient(45deg, #ff00cc, #00ffff, #ffff00, #ff00cc); background-size: 300% 300%; animation: spectrum 8s linear infinite; opacity: 0.15; z-index: 1;"></div>
-    <div style="position: relative; z-index: 2;">
-      <h3 style="margin: 0 0 12px 0; font-size: 1.55rem; background: linear-gradient(90deg, #facc15, #f97316); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🐺 MOHAWK-NEXUS</h3>
-      <p style="color: #bae6fd; font-size: 0.95rem; font-weight: 700; margin: 8px 0 16px 0; text-shadow: 0 0 10px rgba(186, 230, 253, 0.6);">SYSTEM TYPE: Kernel-Bypass</p>
-      <p style="color: #e0f2fe; line-height: 1.65; margin-bottom: 28px;">Kernel bypass activates Go control plane using AF_XDP high-speed rings.</p>
-      <a href="https://github.com/rwilliamspbg-ops/Mohawk-Nexus" style="background: rgba(15, 23, 42, 0.9); color: #facc15; padding: 10px 20px; border-radius: 9999px; text-decoration: none; font-weight: 600; border: 2px solid #eab308; display: inline-block;">View System →</a>
-    </div>
-  </div>
-
-  <!-- Repeat pattern for other cards with different gradient accents -->
-  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border: 3px solid transparent; border-radius: 20px; padding: 24px; position: relative; overflow: hidden; transition: all 0.4s ease; box-shadow: 0 0 30px rgba(192, 132, 252, 0.5);">
-    <div style="position: absolute; inset: 0; background: linear-gradient(45deg, #a855f7, #ec4899, #f43f5e, #a855f7); background-size: 300% 300%; animation: spectrum 8s linear infinite; opacity: 0.18; z-index: 1;"></div>
-    <div style="position: relative; z-index: 2;">
-      <h3 style="margin: 0 0 12px 0; font-size: 1.55rem; background: linear-gradient(90deg, #e879f9, #f472b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🛡️ SMIP-MWP-RUST</h3>
-      <p style="color: #f3e8ff; font-size: 0.95rem; font-weight: 700; margin: 8px 0 16px 0; text-shadow: 0 0 10px rgba(243, 232, 255, 0.6);">PROTOCOL TYPE: Crypto / ZK</p>
-      <p style="color: #e0f2fe; line-height: 1.65; margin-bottom: 28px;">Zero-copy datapath executing memory-safe post-quantum cryptography.</p>
-      <a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust" style="background: rgba(15, 23, 42, 0.9); color: #e879f9; padding: 10px 20px; border-radius: 9999px; text-decoration: none; font-weight: 600; border: 2px solid #d946ef;">View Protocol →</a>
-    </div>
-  </div>
-
-  <!-- Add more cards following the same structure... -->
-
-</div>
-
-<style>
-@keyframes spectrum {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
 ---
 
 ## ◈ FEDERATED LEARNING & ML
