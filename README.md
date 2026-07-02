@@ -199,83 +199,14 @@
 ---
 ## ▣ CORE INFRASTRUCTURE STACK
 
-<div align="center">
-  <p style="font-family:'Courier New', monospace; color:#22d3ee; letter-spacing:2px; margin-bottom:15px;">&nbsp;◉ LEGENDARY REPO SHOWCASE</p>
-  <table border="0" cellpadding="8" cellspacing="0" style="border-collapse:collapse; margin:0 auto; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-    <tr>
-      <!-- CARD 1: MOHAWK-NEXUS -->
-      <td width="205" valign="top" style="border:2px solid #22d3ee; border-radius:12px; padding:10px; background-color:#0f172a; text-align:left;">
-        <div style="background-color:#1e1b4b; border:1px solid #22d3ee; border-radius:6px; padding:4px 6px; margin-bottom:8px; text-align:center;">
-          <strong style="color:#22d3ee; font-size:9.5pt; font-family:monospace; letter-spacing:0.5px;">MOHAWK-NEXUS</strong>
-        </div>
-        <div align="center" style="margin:8px 0;">
-          <span style="font-size:32pt;">🐺</span><br/>
-          <span style="color:#22d3ee; font-size:7.5pt; font-family:monospace; font-weight:bold; border:1px solid rgba(34,211,238,0.3); padding:1px 4px; border-radius:4px;">LEGENDARY SYSTEM</span>
-        </div>
-        <hr size="1" color="rgba(34,211,238,0.2)" style="margin:8px 0;" />
-        <p style="margin:0 0 4px 0; font-size:8pt; color:#ffffff;"><strong style="color:#22d3ee;">SYSTEM TYPE:</strong> Kernel-Bypass</p>
-        <p style="margin:0 0 8px 0; font-size:7.5pt; color:#94a3b8; line-height:1.3;"><strong style="color:#fff;">Mohawk ability:</strong> UNIFIED NETWORK STACK (AF_XDP Bypass). Kernel bypass activates Go control plane.</p>
-        <div align="right">
-          <a href="https://github.com/rwilliamspbg-ops/Mohawk-Nexus" style="color:#22d3ee; font-size:8.5pt; text-decoration:none; font-weight:bold; font-family:monospace;">[View →]</a>
-        </div>
-      </td>
-      <!-- SPACER -->
-      <td width="12"></td>
-      <!-- CARD 2: SMIP-MWP-RUST -->
-      <td width="205" valign="top" style="border:2px solid #dea584; border-radius:12px; padding:10px; background-color:#0f172a; text-align:left;">
-        <div style="background-color:#2e1a0c; border:1px solid #dea584; border-radius:6px; padding:4px 6px; margin-bottom:8px; text-align:center;">
-          <strong style="color:#dea584; font-size:9.5pt; font-family:monospace; letter-spacing:0.5px;">SMIP-MWP-RUST</strong>
-        </div>
-        <div align="center" style="margin:8px 0;">
-          <span style="font-size:32pt;">🛡️</span><br/>
-          <span style="color:#dea584; font-size:7.5pt; font-family:monospace; font-weight:bold; border:1px solid rgba(222,165,132,0.3); padding:1px 4px; border-radius:4px;">QUANTUM PROTOCOL</span>
-        </div>
-        <hr size="1" color="rgba(222,165,132,0.2)" style="margin:8px 0;" />
-        <p style="margin:0 0 4px 0; font-size:8pt; color:#ffffff;"><strong style="color:#dea584;">PROTOCOL TYPE:</strong> Crypto / ZK</p>
-        <p style="margin:0 0 8px 0; font-size:7.5pt; color:#94a3b8; line-height:1.3;"><strong style="color:#fff;">SMIP ability:</strong> PQC KEX / ZERO-COPY DATAPATH. Activates memory-safe quantum security.</p>
-        <div align="right">
-          <a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust" style="color:#dea584; font-size:8.5pt; text-decoration:none; font-weight:bold; font-family:monospace;">[View →]</a>
-        </div>
-      </td>
-      <!-- SPACER -->
-      <td width="12"></td>
-      <!-- CARD 3: SOVEREIGN-MOHAWK-PROTO -->
-      <td width="205" valign="top" style="border:2px solid #ff6b6b; border-radius:12px; padding:10px; background-color:#0f172a; text-align:left;">
-        <div style="background-color:#3b1111; border:1px solid #ff6b6b; border-radius:6px; padding:4px 6px; margin-bottom:8px; text-align:center;">
-          <strong style="color:#ff6b6b; font-size:9.2pt; font-family:monospace; letter-spacing:-0.3px;">SOVEREIGN-MOHAWK</strong>
-        </div>
-        <div align="center" style="margin:8px 0;">
-          <span style="font-size:32pt;">🌐</span><br/>
-          <span style="color:#ff6b6b; font-size:7.5pt; font-family:monospace; font-weight:bold; border:1px solid rgba(255,107,107,0.3); padding:1px 4px; border-radius:4px;">FORGE VERTICAL / FL</span>
-        </div>
-        <hr size="1" color="rgba(255,107,107,0.2)" style="margin:8px 0;" />
-        <p style="margin:0 0 4px 0; font-size:8pt; color:#ffffff;"><strong style="color:#ff6b6b;">VERTICAL TYPE:</strong> Federated ML</p>
-        <p style="margin:0 0 8px 0; font-size:7.5pt; color:#94a3b8; line-height:1.3;"><strong style="color:#fff;">Sovereign ability:</strong> 10M-NODE FL / BFT VERIFIED. Activates verifiable spatial intelligence.</p>
-        <div align="right">
-          <a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto" style="color:#ff6b6b; font-size:8.5pt; text-decoration:none; font-weight:bold; font-family:monospace;">[View →]</a>
-        </div>
-      </td>
-      <!-- SPACER -->
-      <td width="12"></td>
-      <!-- CARD 4: GHOSTLINK -->
-      <td width="205" valign="top" style="border:2px solid #3fb950; border-radius:12px; padding:10px; background-color:#0f172a; text-align:left;">
-        <div style="background-color:#052e16; border:1px solid #3fb950; border-radius:6px; padding:4px 6px; margin-bottom:8px; text-align:center;">
-          <strong style="color:#3fb950; font-size:9.5pt; font-family:monospace; letter-spacing:0.5px;">GHOSTLINK</strong>
-        </div>
-        <div align="center" style="margin:8px 0;">
-          <span style="font-size:32pt;">🔮</span><br/>
-          <span style="color:#3fb950; font-size:7.5pt; font-family:monospace; font-weight:bold; border:1px solid rgba(63,185,80,0.3); padding:1px 4px; border-radius:4px;">DISTRIBUTED INFERENCE</span>
-        </div>
-        <hr size="1" color="rgba(63,185,80,0.2)" style="margin:8px 0;" />
-        <p style="margin:0 0 4px 0; font-size:8pt; color:#ffffff;"><strong style="color:#3fb950;">INFERENCE TYPE:</strong> Edge LLM</p>
-        <p style="margin:0 0 8px 0; font-size:7.5pt; color:#94a3b8; line-height:1.3;"><strong style="color:#fff;">Ghostlink ability:</strong> DISTRIBUTED LLM SURFACE. Turns spare GPUs into a local surface.</p>
-        <div align="right">
-          <a href="https://github.com/rwilliamspbg-ops/Ghostlink" style="color:#3fb950; font-size:8.5pt; text-decoration:none; font-weight:bold; font-family:monospace;">[View →]</a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <code><strong>◉ LEGENDARY REPO SHOWCASE</strong></code>
+</p>
+
+| 🐺 MOHAWK-NEXUS | 🛡️ SMIP-MWP-RUST | 🌐 SOVEREIGN-MOHAWK | 🔮 GHOSTLINK |
+| :--- | :--- | :--- | :--- |
+| **SYSTEM TYPE:**<br>Kernel-Bypass <br><br> > **Mohawk Ability:**<br> > UNIFIED NETWORK STACK<br> > (AF_XDP Bypass). Kernel bypass activates Go control plane.<br><br> <kbd>[View System →](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)</kbd> | **PROTOCOL TYPE:**<br>Crypto / ZK <br><br> > **SMIP Ability:**<br> > PQC KEX / ZERO-COPY DATAPATH.<br> > Activates memory-safe quantum security.<br><br> <kbd>[View Protocol →](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)</kbd> | **VERTICAL TYPE:**<br>Federated ML <br><br> > **Sovereign Ability:**<br> > 10M-NODE FL / BFT VERIFIED.<br> > Activates verifiable spatial intelligence.<br><br> <kbd>[View Vertical →](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)</kbd> | **INFERENCE TYPE:**<br>Edge LLM <br><br> > **Ghostlink Ability:**<br> > DISTRIBUTED LLM SURFACE.<br> > Turns spare GPUs into a local surface.<br><br> <kbd>[View Inference →](https://github.com/rwilliamspbg-ops/Ghostlink)</kbd> |
+
 ---
 
 ## ◈ FEDERATED LEARNING & ML
