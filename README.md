@@ -211,17 +211,17 @@
 
 ## ◈ FEDERATED LEARNING & ML
 
-> *Byzantine-fault-tolerant, privacy-preserving, and formally verified distributed intelligence.*
+<p align="left">
+  <code><em>Byzantine-fault-tolerant, privacy-preserving, and formally verified distributed intelligence.</em></code>
+</p>
 
-| ◈ Repository | ◇ Language | ◈ Description | ⬡ Stars | ◇ License |
-|:-------------|:-----------|:-------------|:-------:|:---------:|
-| [**Sovereign-Mohawk-Proto**](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) | `Python` | High-scale FL (10M nodes) with formal BFT verification, 10ms zk-SNARKs, PQC overhaul (x25519-mlkem768, XMSS TPM) | ⭐ 10⭐ | Apache-2.0 |
-| [**Sovereign_Map_Federated_Learning**](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning) | `Python` `Go` | Production-grade Byzantine-tolerant FL with Mohawk Protocol streaming aggregation (224x memory reduction) | ⭐ 2 | MIT |
-| [**Mohawk-Inference-Engine**](https://github.com/rwilliamspbg-ops/Mohawk-Inference-Engine) | `Python` | Lightweight secure local inference with multi-device layer splitting, PQC edge offloading, high-concurrency sessions | ⭐ 2 | Apache-2.0 |
-| [**SovereignEdge-TEE-Agent**](https://github.com/rwilliamspbg-ops/SovereignEdge-TEE-Agent) | `Rust` | Hardware-secured, post-quantum edge agent with zero-copy remote offloading | ⭐ 1 | MIT |
-| [**smp-tee-runtime**](https://github.com/rwilliamspbg-ops/smp-tee-runtime) | `Rust` | Hardened Rust runtime for FL aggregation (Multi-Krum, FedAvg) inside TEEs | ⭐ 2 | — |
-| [**smp-zk-proofs**](https://github.com/rwilliamspbg-ops/smp-zk-proofs) | `Rust` | Verifiable aggregation ledgers with zk-SNARKs for distributed spatial networks | ⭐ 2 | MIT |
-| [**SampCert**](https://github.com/rwilliamspbg-ops/SampCert) | `Lean` | Verified Differential Privacy — machine-checked proofs | ⭐ 2 | Apache-2.0 |
+| 🌐 SOVEREIGN-MOHAWK | 🗺️ SOVEREIGN_MAP | ⚙️ MOHAWK-INFERENCE | 🛡️ SOVEREIGNEDGE-TEE |
+| :--- | :--- | :--- | :--- |
+| **LANGUAGE:** Python <br><br> High-scale FL (10M nodes) with formal BFT verification, 10ms zk-SNARKs, PQC overhaul. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)</kbd> | **LANGUAGE:** Python / Go <br><br> Production-grade Byzantine-tolerant FL with Mohawk Protocol streaming aggregation. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/README.md#-federated-learning--ml)</kbd> | **LANGUAGE:** Python <br><br> Lightweight secure local inference with multi-device layer splitting and PQC edge offloading. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning)</kbd> | **LANGUAGE:** Rust <br><br> Hardware-secured, post-quantum edge agent with zero-copy remote offloading. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/Mohawk-Inference-Engine)</kbd> |
+
+| 🦀 SMP-TEE-RUNTIME | 📜 SMP-ZK-PROOFS | 📐 SAMPCERT | |
+| :--- | :--- | :--- | :--- |
+| **LANGUAGE:** Rust <br><br> Hardened Rust runtime for FL aggregation (Multi-Krum, FedAvg) inside TEEs. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/SovereignEdge-TEE-Agent)</kbd> | **LANGUAGE:** Rust <br><br> Verifiable aggregation ledgers with zk-SNARKs for distributed spatial networks. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/smp-tee-runtime)</kbd> | **LANGUAGE:** Lean <br><br> Verified Differential Privacy — machine-checked mathematical proofs. <br><br> <kbd>[View Repo →](https://github.com/rwilliamspbg-ops/smp-zk-proofs)</kbd> | |
 
 ---
 
