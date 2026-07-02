@@ -199,6 +199,8 @@
 ---
 ## ▣ CORE INFRASTRUCTURE STACK
 
+## ▣ CORE INFRASTRUCTURE STACK
+
 <div align="center">
   <p style="font-family:'Courier New', monospace; color:#22d3ee; letter-spacing: 2px; margin-bottom: 15px;">&nbsp;◉ ROTATING REPO SHOWCASE</p>
 
@@ -247,6 +249,8 @@
     </tr>
   </table>
 </div>
+
+
 ---
 
 ## ◈ FEDERATED LEARNING & ML
