@@ -291,13 +291,26 @@
 
 ## ◇ CONNECT & SUPPORT
 
-<p align="center">
-  <code>⚡ SYSTEM DISPATCH NODES ⚡</code>
-</p>
+<div align="center">
 
-[<kbd>&nbsp; 🌐 WEBSITE &nbsp;</kbd>](https://sovereignmohawkproto.com) &nbsp;&nbsp;•&nbsp;&nbsp; [<kbd>&nbsp; 💼 LINKEDIN &nbsp;</kbd>](https://linkedin.com/in/rwilliamspbg) &nbsp;&nbsp;•&nbsp;&nbsp; [<kbd>&nbsp; 💰 SPONSOR &nbsp;</kbd>](https://github.com/sponsors/rwilliamspbg-ops)
+| 🌐 [sovereignmohawkproto.com](https://sovereignmohawkproto.com) | 💼 [linkedin.com/in/rwilliamspbg](https://linkedin.com/in/rwilliamspbg) | 💰 [github.com/sponsors/rwilliamspbg-ops](https://github.com/sponsors/rwilliamspbg-ops) |
+| :---: | :---: | :---: |
 
-<br />
+<code>📍 Seattle, WA &nbsp;•&nbsp; 🛰️ Memory safe, quantum ready, sovereign by design.</code>
 
-```alt
-📍 Location: Seattle, WA  |  Mantra: Memory safe, quantum ready, sovereign by design.
+</div>
+
+---
+
+<!-- Terminal-style footer -->
+<div align="center">
+
+```bash
+$ ./mohawk-nexus --status
+[OK]  Kernel-bypass:   ACTIVE          |  AF_XDP ring:  READY
+[OK]  TEE Enclave:     SECURE          |  Attestation:  VERIFIED
+[OK]  PQC Handshake:   XMSS+ML-KEM768  |  Latency:      10ms
+[OK]  zk-SNARK Prover: ONLINE          |  BFT Consensus: SYNCED
+[OK]  Sovereign Mode:  ENABLED         |  Threat Model: NATION-STATE
+
+> _
