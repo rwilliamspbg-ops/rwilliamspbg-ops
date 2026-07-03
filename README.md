@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" width="100%" alt="Mohawk Nexus Banner" />
+<img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" width="70%" alt="Mohawk Nexus Banner" />
 
 # rwilliamspbg-ops (Ryan)
 
