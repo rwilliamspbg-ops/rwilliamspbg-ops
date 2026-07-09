@@ -43,15 +43,6 @@ domains:
 | 🟢 | **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy AF_XDP datapath w/ SIMD vectorization | `Rust` `SIMD` `AVX2` `PERFORMANCE` |
 | 🔵 | **[Sovereign Agentic Prediction Market](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)** | Autonomous markets on Sui blockchain | `TypeScript` `Sui` `Move` `Web3` |
 
-=======
-
-<img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" width="70%" alt="Mohawk Nexus Banner" />
-
-# rwilliamspbg-ops (Ryan)
-
-**Founder @ Sovereign Mohawk Proto LLC**  
-*Systems Engineer building sovereign, memory-safe, and quantum-resistant infrastructure for distributed ML and high-performance networking.*
-
 <!-- Animated Banner SVG -->
 <svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
