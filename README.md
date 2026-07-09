@@ -1,11 +1,6 @@
 <div align="center">
-<<<<<<< HEAD
   
-  <!-- CYBERPUNK BANNER -->
-  <img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" 
-       alt="Mohawk Nexus Banner" 
-       width="75%" 
-       style="border-radius: 2px; box-shadow: 0 0 30px rgba(0, 229, 255, 0.4), inset 0 0 20px rgba(0, 229, 255, 0.1); border: 2px solid rgba(0, 229, 255, 0.3);"/>
+
   
   ```
   ╔════════════════════════════════════════════════════════╗
