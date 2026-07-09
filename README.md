@@ -141,12 +141,10 @@ domains:
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=🎙️+Now+Streaming+on+Spotify...;Series+Masterclass%3A+Sovereign+Mohawk;%26+The+Future+of+Private+Infrastructure;Click+here+to+listen+to+the+episode+🎧" alt="Typing Animation" />
   </a>
 </p>
->>>>>>> 9382d66fad69feaffe1fb4d5332025b8f2a5d0c9
+
 </div>
 
 ---
-
-<<<<<<< HEAD
 ## 🛰️ SIGNAL MATRIX
 
 <div align="center">
@@ -211,18 +209,6 @@ domains:
 ```
 
 **Expertise:** Rust zero-copy networking · TEE attestation · Sui Move · AF_XDP kernel bypass
-
----
-
-## 📊 OPERATIONAL METRICS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&langs_count=8)
-
-</div>
 
 ---
 
