@@ -1,4 +1,54 @@
 <div align="center">
+<<<<<<< HEAD
+  
+  <!-- CYBERPUNK BANNER -->
+  <img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" 
+       alt="Mohawk Nexus Banner" 
+       width="75%" 
+       style="border-radius: 2px; box-shadow: 0 0 30px rgba(0, 229, 255, 0.4), inset 0 0 20px rgba(0, 229, 255, 0.1); border: 2px solid rgba(0, 229, 255, 0.3);"/>
+  
+  ```
+  ╔════════════════════════════════════════════════════════╗
+  ║  RWILLIAMSPBG-OPS  ► SOVEREIGN INFRASTRUCTURE NEXUS    ║
+  ║  Status: OPERATIONAL | Threat Model: Nation-State+QC   ║
+  ╚════════════════════════════════════════════════════════╝
+  ```
+
+# 🔥 `rwilliamspbg-ops` (Ryan)
+
+**Founder @ Sovereign Mohawk Proto LLC**  
+Systems engineer architecting **memory-safe**, **quantum-resistant** infrastructure for distributed ML and kernel-bypass networking.
+
+---
+
+## 🎯 OPERATIONAL MANDATE
+
+```yaml
+domains:
+  - Kernel-Bypass Networking: AF_XDP, ebpf, zero-copy streams
+  - Trusted Execution: TEE/TPM hardened runtimes, remote attestation
+  - Post-Quantum Security: zk-SNARKs, lattice crypto, XMSS chains
+  - Byzantine Resilience: Federated learning with formal verification
+  - Web3 Infrastructure: Sui Move, agentic markets, sovereign protocols
+```
+
+---
+
+## ⚡ FEATURED OPS (5 Core Projects)
+
+<div align="center">
+
+### Tier: CRITICAL
+
+| Status | Operation | Objective | Arsenal |
+|:------:|-----------|-----------|---------|
+| 🔴 | **[Mohawk-Nexus](https://github.com/rwilliamspbg-ops/Mohawk-Nexus)** | Unified high-performance network stack | `Rust` `Go` `AF_XDP` `eBPF` |
+| 🟠 | **[Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto)** | Federated learning w/ BFT + zero-knowledge proofs | `Rust` `Python` `zk-SNARKs` `BFT` |
+| 🟡 | **[smp-tee-runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime)** | Hardened TEE runtime for confidential aggregation | `Rust` `TEE` `TPM` `ATTESTATION` |
+| 🟢 | **[SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust)** | Zero-copy AF_XDP datapath w/ SIMD vectorization | `Rust` `SIMD` `AVX2` `PERFORMANCE` |
+| 🔵 | **[Sovereign Agentic Prediction Market](https://github.com/rwilliamspbg-ops/Sovereign-Agentic-Prediction-Market-SAPM-on-Sui-Core)** | Autonomous markets on Sui blockchain | `TypeScript` `Sui` `Move` `Web3` |
+
+=======
 
 <img src="https://github.com/rwilliamspbg-ops/rwilliamspbg-ops/blob/main/image.png?raw=true" width="70%" alt="Mohawk Nexus Banner" />
 
@@ -105,10 +155,142 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=🎙️+Now+Streaming+on+Spotify...;Series+Masterclass%3A+Sovereign+Mohawk;%26+The+Future+of+Private+Infrastructure;Click+here+to+listen+to+the+episode+🎧" alt="Typing Animation" />
   </a>
 </p>
+>>>>>>> 9382d66fad69feaffe1fb4d5332025b8f2a5d0c9
 </div>
 
 ---
 
+<<<<<<< HEAD
+## 🛰️ SIGNAL MATRIX
+
+<div align="center">
+
+### Contribution Heat
+![GitHub Streak](https://streak-stats.demolab.com?user=rwilliamspbg-ops&theme=dark&hide_border=true&background=0F172A)
+
+### Activity Topology
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rwilliamspbg-ops&theme=react-dark&hide_border=true&bg_color=0F172A)
+
+**Recent Output:** 4,179 commits across 11+ repositories
+
+</div>
+
+---
+
+## ⚙️ TECH ARSENAL
+
+<div align="center">
+
+### 🖥️ Core Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 📡 Infrastructure & Orchestration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ⚡ Performance Stack
+![AF_XDP](https://img.shields.io/badge/AF_XDP-FF0000?style=for-the-badge)
+![Zero-Copy](https://img.shields.io/badge/Zero--Copy-00C853?style=for-the-badge)
+![SIMD/AVX2](https://img.shields.io/badge/SIMD_AVX2-FF9800?style=for-the-badge)
+![eBPF](https://img.shields.io/badge/eBPF-6C4AB6?style=for-the-badge)
+
+### 🔐 Security Framework
+![Post-Quantum](https://img.shields.io/badge/Post--Quantum-00B4A8?style=for-the-badge)
+![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-7B1FA2?style=for-the-badge)
+![TEE](https://img.shields.io/badge/TEE-FF5722?style=for-the-badge)
+![TPM](https://img.shields.io/badge/TPM-607D8B?style=for-the-badge)
+![XMSS](https://img.shields.io/badge/XMSS-9C27B0?style=for-the-badge)
+
+### 🌐 Distributed & Web3
+![BFT](https://img.shields.io/badge/BFT-2196F3?style=for-the-badge)
+![Federated_Learning](https://img.shields.io/badge/Federated_Learning-4CAF50?style=for-the-badge)
+![Sui](https://img.shields.io/badge/Sui_Blockchain-5C6BC0?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧬 CURRENT RESEARCH VECTOR
+
+```
+├─ 🔬 Hardening: smp-tee-runtime → multi-node TEE clusters
+├─ 📈 Scaling: Mohawk-Nexus → distributed deployment
+├─ 🔮 Cryptography: post-quantum zk-SNARKs for privacy-ML
+├─ 🛡️ Threat Model: Nation-state adversaries + quantum compute
+└─ 🌍 Focus: Memory-safe, formal verified, sovereign systems
+```
+
+**Expertise:** Rust zero-copy networking · TEE attestation · Sui Move · AF_XDP kernel bypass
+
+---
+
+## 📊 OPERATIONAL METRICS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&langs_count=8)
+
+</div>
+
+---
+
+## 🔗 CONTACT & LINKS
+
+<div align="center">
+
+### Quick Deploy
+
+| Vector | Link |
+|--------|------|
+| 💰 **Fund Operations** | [github.com/sponsors/rwilliamspbg-ops](https://github.com/sponsors/rwilliamspbg-ops) |
+| 🌐 **Protocol Hub** | [Mohawk Nexus Docs](https://rwilliamspbg-ops.github.io/Mohawk-Nexus/) |
+| 💼 **Professional** | [LinkedIn](https://www.linkedin.com/in/rwilliams-pa/) |
+| 📰 **Academic** | [ORCID: 0009-0005-1126-7004](https://orcid.org/0009-0005-1126-7004) |
+| 📍 **Base** | Seattle, WA |
+
+### Primary Actions
+
+<a href="https://github.com/sponsors/rwilliamspbg-ops">
+  <img src="https://img.shields.io/badge/⭐_SPONSOR_OPS-00E5FF?style=for-the-badge&logoColor=black&labelColor=0F172A" alt="Sponsor"/>
+</a>
+
+<a href="https://rwilliamspbg-ops.github.io/Mohawk-Nexus/">
+  <img src="https://img.shields.io/badge/📖_NEXUS_DOCS-00E5FF?style=for-the-badge&logoColor=black&labelColor=0F172A" alt="Docs"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rwilliams-pa/">
+  <img src="https://img.shields.io/badge/💼_CONNECT-0A66C2?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+## 🔮 PHILOSOPHY
+
+```
+Memory safety + Quantum resistance + Byzantine tolerance + Formal verification
+= Sovereign infrastructure for distributed systems that survive everything.
+```
+
+*Designed for adversaries with unlimited compute. Built in Rust. Verified on paper.*
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=rwilliamspbg-ops&color=00E5FF&style=flat-square)
+
+---
+
+**`SYSTEM STATUS: OPERATIONAL`** · Last Updated: 2025
+
+</div>
+=======
 ## ◈ CAPABILITY MATRIX
 
 | NATIVE RUNTIME MATRIX | STABILITY DEPLOYMENT | STRUCTURAL ARCHITECTURE |
@@ -213,3 +395,5 @@
 
 ```bash
 📍 Location: Seattle, WA  |  Status: Sovereign Mode ENABLED
+>>>>>>> 9382d66fad69feaffe1fb4d5332025b8f2a5d0c9
+
