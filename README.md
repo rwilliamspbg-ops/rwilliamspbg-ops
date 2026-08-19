@@ -32,7 +32,7 @@ Featured repositories
     <td width="50%" valign="top">
       <h4><a href="https://github.com/rwilliamspbg-ops/Ghostlink">Ghostlink</a></h4>
       <p>Distributed LLM inference fabric with SPSC ring buffers, automated tuning, and an OpenAI-compatible API.</p>
-      <p><code>Rust</code> <code>⭐ 4</code> <code>MIT</code></p>
+      <p><code>Rust</code> <code>⭐ 28</code> <code>MIT</code></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/rwilliamspbg-ops/smp-tee-runtime">SMP-TEE-Runtime</a></h4>
