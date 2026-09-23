@@ -114,7 +114,7 @@ Featured repositories
 ![GitHub Streak](https://streak-stats.demolab.com?user=rwilliamspbg-ops&theme=dark&hide_border=true&background=0F172A)
 
 ### Activity Topology
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rwilliamspbg-ops&theme=react-dark&hide_border=true&bg_color=0F172A)
+![Activity Topology](https://metrics.lecoq.io/rwilliamspbg-ops?template=classic&base=activity&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles)
 
 **Recent Output:** 4,179 commits across 11+ repositories
 
