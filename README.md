@@ -25,7 +25,7 @@ Featured repositories
     <td width="50%" valign="top">
       <h4><a href="https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust">SMIP-MWP-Rust</a></h4>
       <p>Zero-copy AF_XDP networking with AES-256-GCM, ChaCha20-Poly1305, and post-quantum key exchange.</p>
-      <p><code>Rust</code> <code>⭐ 6</code></p>
+      <p><code>Rust</code> <code>⭐ 7</code></p>
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ Featured repositories
     <td width="50%" valign="top">
       <h4><a href="https://github.com/rwilliamspbg-ops/smp-tee-runtime">SMP-TEE-Runtime</a></h4>
       <p>Hardened Rust runtime for FedAvg aggregation inside hardware-enforced TEE enclaves with remote attestation.</p>
-      <p><code>Rust</code> <code>⭐ 2</code></p>
+      <p><code>Rust</code> <code>⭐ 3</code></p>
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ Featured repositories
     <td width="50%" valign="top">
       <h4><a href="https://github.com/rwilliamspbg-ops/RustForge">RustForge</a></h4>
       <p>A modular, adoptable Rust test-suite template — from cargo test basics to compiler-style coverage, fuzzing, property tests, benchmarks, and compile-fail checks.</p>
-      <p><code>Rust</code> <code>⭐ 2</code> <code>Apache-2.0</code></p>
+      <p><code>Rust</code> <code>⭐ 3</code> <code>Apache-2.0</code></p>
     </td>
   </tr>
 </table>
