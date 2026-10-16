@@ -190,14 +190,14 @@ Active Months:      12     │  Commit Velocity: 4k+ commits
 
 | Crate | Version | Description |
 |-------|---------|-------------|
-| [ghostlink](https://crates.io/crates/ghostlink) | <a href="https://crates.io/crates/ghostlink"><img src="https://img.shields.io/crates/v/ghostlink?style=flat-square&labelColor=0a0a0a&color=00F0FF" /></a> | CLI and API runtime for distributed LLM inference across heterogeneous hardware |
-| [ghostlink-core](https://crates.io/crates/ghostlink-core) | <a href="https://crates.io/crates/ghostlink-core"><img src="https://img.shields.io/crates/v/ghostlink-core?style=flat-square&labelColor=0a0a0a&color=00F0FF" /></a> | Core runtime primitives for Ghostlink: planning, routing, health monitoring, transport |
-| [smp-pqc](https://crates.io/crates/smp-pqc) | <a href="https://crates.io/crates/smp-pqc"><img src="https://img.shields.io/crates/v/smp-pqc?style=flat-square&labelColor=0a0a0a&color=FF00FF" /></a> | Sovereign Mohawk PQC test kit CLI |
-| [smp-pqc-lib](https://crates.io/crates/smp-pqc-lib) | <a href="https://crates.io/crates/smp-pqc-lib"><img src="https://img.shields.io/crates/v/smp-pqc-lib?style=flat-square&labelColor=0a0a0a&color=FF00FF" /></a> | Safe Rust abstractions over NIST PQC algorithms (ML-KEM, ML-DSA, SLH-DSA) and classical/PQC hybrids |
-| [smp-cbom](https://crates.io/crates/smp-cbom) | <a href="https://crates.io/crates/smp-cbom"><img src="https://img.shields.io/crates/v/smp-cbom?style=flat-square&labelColor=0a0a0a&color=00FF9F" /></a> | Cryptographic inventory / CBOM (CycloneDX) generation from Cargo.lock |
-| [smp-pqc-scanner](https://crates.io/crates/smp-pqc-scanner) | <a href="https://crates.io/crates/smp-pqc-scanner"><img src="https://img.shields.io/crates/v/smp-pqc-scanner?style=flat-square&labelColor=0a0a0a&color=00FF9F" /></a> | TLS/SSH PQC/hybrid key-exchange handshake scanning |
-| [smp-tee-runtime](https://crates.io/crates/smp-tee-runtime) | <a href="https://crates.io/crates/smp-tee-runtime"><img src="https://img.shields.io/crates/v/smp-tee-runtime?style=flat-square&labelColor=0a0a0a&color=FF00FF" /></a> | Hardened minimal runtime for TEE-based federated aggregation |
-| [smp-zk-proofs](https://crates.io/crates/smp-zk-proofs) | <a href="https://crates.io/crates/smp-zk-proofs"><img src="https://img.shields.io/crates/v/smp-zk-proofs?style=flat-square&labelColor=0a0a0a&color=FF00FF" /></a> | ZK proof primitives for verifiable location and ML-training claims |
+| [ghostlink](https://crates.io/crates/ghostlink) | <img src="https://img.shields.io/crates/v/ghostlink?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | CLI and API runtime for distributed LLM inference across heterogeneous hardware |
+| [ghostlink-core](https://crates.io/crates/ghostlink-core) | <img src="https://img.shields.io/crates/v/ghostlink-core?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | Core runtime primitives for Ghostlink: planning, routing, health monitoring, transport |
+| [smp-pqc](https://crates.io/crates/smp-pqc) | <img src="https://img.shields.io/crates/v/smp-pqc?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Sovereign Mohawk PQC test kit CLI |
+| [smp-pqc-lib](https://crates.io/crates/smp-pqc-lib) | <img src="https://img.shields.io/crates/v/smp-pqc-lib?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Safe Rust abstractions over NIST PQC algorithms (ML-KEM, ML-DSA, SLH-DSA) and classical/PQC hybrids |
+| [smp-cbom](https://crates.io/crates/smp-cbom) | <img src="https://img.shields.io/crates/v/smp-cbom?style=flat-square&labelColor=0a0a0a&color=00FF9F" alt="version" /> | Cryptographic inventory / CBOM (CycloneDX) generation from Cargo.lock |
+| [smp-pqc-scanner](https://crates.io/crates/smp-pqc-scanner) | <img src="https://img.shields.io/crates/v/smp-pqc-scanner?style=flat-square&labelColor=0a0a0a&color=00FF9F" alt="version" /> | TLS/SSH PQC/hybrid key-exchange handshake scanning |
+| [smp-tee-runtime](https://crates.io/crates/smp-tee-runtime) | <img src="https://img.shields.io/crates/v/smp-tee-runtime?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Hardened minimal runtime for TEE-based federated aggregation |
+| [smp-zk-proofs](https://crates.io/crates/smp-zk-proofs) | <img src="https://img.shields.io/crates/v/smp-zk-proofs?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | ZK proof primitives for verifiable location and ML-training claims |
 
 ---
 
