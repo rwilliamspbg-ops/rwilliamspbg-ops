@@ -190,7 +190,7 @@ Active Months:      12     │  Commit Velocity: 4k+ commits
 
 | Crate | Version | Description |
 |-------|---------|-------------|
-| [ghostlink](https://crates.io/crates/ghostlink) | <img src="https://img.shields.io/crates/v/ghostlink?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | CLI and API runtime for distributed LLM inference across heterogeneous hardware |
+| [ghost-link](https://crates.io/crates/ghost-link) | <img src="https://img.shields.io/crates/v/ghostlink?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | CLI and API runtime for distributed LLM inference across heterogeneous hardware |
 | [ghostlink-core](https://crates.io/crates/ghostlink-core) | <img src="https://img.shields.io/crates/v/ghostlink-core?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | Core runtime primitives for Ghostlink: planning, routing, health monitoring, transport |
 | [smp-pqc](https://crates.io/crates/smp-pqc) | <img src="https://img.shields.io/crates/v/smp-pqc?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Sovereign Mohawk PQC test kit CLI |
 | [smp-pqc-lib](https://crates.io/crates/smp-pqc-lib) | <img src="https://img.shields.io/crates/v/smp-pqc-lib?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Safe Rust abstractions over NIST PQC algorithms (ML-KEM, ML-DSA, SLH-DSA) and classical/PQC hybrids |
