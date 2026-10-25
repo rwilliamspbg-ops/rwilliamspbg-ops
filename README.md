@@ -87,6 +87,36 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 ---
 
+## Published Crates
+
+| Crate | Version | Description |
+|-------|---------|-------------|
+| [ghost-link](https://crates.io/crates/ghost-link) | <img src="https://img.shields.io/crates/v/ghost-link?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | CLI and API runtime for distributed LLM inference across heterogeneous hardware |
+| [ghostlink-core](https://crates.io/crates/ghostlink-core) | <img src="https://img.shields.io/crates/v/ghostlink-core?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | Core runtime primitives for Ghostlink: planning, routing, health monitoring, transport |
+| [smp-pqc-cli](https://crates.io/crates/smp-pqc-cli) | <img src="https://img.shields.io/crates/v/smp-pqc-cli?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Sovereign Mohawk PQC test kit CLI |
+| [smp-pqc-core](https://crates.io/crates/smp-pqc-core) | <img src="https://img.shields.io/crates/v/smp-pqc-core?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Safe Rust abstractions over NIST PQC algorithms (ML-KEM, ML-DSA, SLH-DSA) and classical/PQC hybrids |
+| [smp-cbom](https://crates.io/crates/smp-pqc-inventory) | <img src="https://img.shields.io/crates/v/smp-pqc-inventory?style=flat-square&labelColor=0a0a0a&color=00FF9F" alt="version" /> | Cryptographic inventory / CBOM (CycloneDX) generation from Cargo.lock |
+| [smp-pqc-scanner](https://crates.io/crates/smp-pqc-networkv) | <img src="https://img.shields.io/crates/v/smp-pqc-network?style=flat-square&labelColor=0a0a0a&color=00FF9F" alt="version" /> | TLS/SSH PQC/hybrid key-exchange handshake scanning |
+| [smp-tee-runtime](https://crates.io/crates/smp-tee-runtime) | <img src="https://img.shields.io/crates/v/smp-tee-runtime?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Hardened minimal runtime for TEE-based federated aggregation |
+| [smp-zk-proofs](https://crates.io/crates/smp-zk-proofs) | <img src="https://img.shields.io/crates/v/smp-zk-proofs?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | ZK proof primitives for verifiable location and ML-training claims |
+
+---
+
+## 🛰️ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&text_color=e6edf3&icon_color=FF00FF" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&text_color=e6edf3" alt="Top Languages" />
+
+### Contribution Heat
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rwilliamspbg-ops&theme=dark&hide_border=true&background=0F172A&stroke=00F0FF&ring=FF00FF&fire=FF00FF&sideNums=00F0FF&dates=7d8590&sideLabels=7d8590&currStreakNum=00FF9F)
+
+</div>
+
+---
+
 ## 🚨 Currently Building
 
 ```
@@ -213,36 +243,6 @@ Active Months:      12     │  Commit Velocity: 4k+ commits
 - [SMP-Novels](https://github.com/rwilliamspbg-ops/SMP_Novels) — AI-orchestrated sci-fi with WASM sandboxing
 - [NexxusFlow](https://github.com/rwilliamspbg-ops/NexxusFlow) — Infrastructure lab workspace for high-performance systems and decentralized primitives
 - [RustForge](https://github.com/rwilliamspbg-ops/RustForge) — Modular Rust test-suite template
-
----
-
-## Published Crates
-
-| Crate | Version | Description |
-|-------|---------|-------------|
-| [ghost-link](https://crates.io/crates/ghost-link) | <img src="https://img.shields.io/crates/v/ghost-link?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | CLI and API runtime for distributed LLM inference across heterogeneous hardware |
-| [ghostlink-core](https://crates.io/crates/ghostlink-core) | <img src="https://img.shields.io/crates/v/ghostlink-core?style=flat-square&labelColor=0a0a0a&color=00F0FF" alt="version" /> | Core runtime primitives for Ghostlink: planning, routing, health monitoring, transport |
-| [smp-pqc-cli](https://crates.io/crates/smp-pqc-cli) | <img src="https://img.shields.io/crates/v/smp-pqc-cli?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Sovereign Mohawk PQC test kit CLI |
-| [smp-pqc-core](https://crates.io/crates/smp-pqc-core) | <img src="https://img.shields.io/crates/v/smp-pqc-core?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Safe Rust abstractions over NIST PQC algorithms (ML-KEM, ML-DSA, SLH-DSA) and classical/PQC hybrids |
-| [smp-cbom](https://crates.io/crates/smp-pqc-inventory) | <img src="https://img.shields.io/crates/v/smp-pqc-inventory?style=flat-square&labelColor=0a0a0a&color=00FF9F" alt="version" /> | Cryptographic inventory / CBOM (CycloneDX) generation from Cargo.lock |
-| [smp-pqc-scanner](https://crates.io/crates/smp-pqc-networkv) | <img src="https://img.shields.io/crates/v/smp-pqc-network?style=flat-square&labelColor=0a0a0a&color=00FF9F" alt="version" /> | TLS/SSH PQC/hybrid key-exchange handshake scanning |
-| [smp-tee-runtime](https://crates.io/crates/smp-tee-runtime) | <img src="https://img.shields.io/crates/v/smp-tee-runtime?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | Hardened minimal runtime for TEE-based federated aggregation |
-| [smp-zk-proofs](https://crates.io/crates/smp-zk-proofs) | <img src="https://img.shields.io/crates/v/smp-zk-proofs?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | ZK proof primitives for verifiable location and ML-training claims |
-
----
-
-## 🛰️ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&text_color=e6edf3&icon_color=FF00FF" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&text_color=e6edf3" alt="Top Languages" />
-
-### Contribution Heat
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rwilliamspbg-ops&theme=dark&hide_border=true&background=0F172A&stroke=00F0FF&ring=FF00FF&fire=FF00FF&sideNums=00F0FF&dates=7d8590&sideLabels=7d8590&currStreakNum=00FF9F)
-
-</div>
 
 ---
 
