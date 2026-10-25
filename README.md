@@ -1,37 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1500&color=00F0FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Developer+Passport...;%3E+Identity+Verified%3A+Ryan+Williams+_%3E+Role%3A+Systems+Engineer+%C2%B7+Founder+_%3E+Clearance%3A+Level-5+Sovereign+Architect+_%3E+Memory-safe+%C2%B7+Quantum-resistant+%C2%B7+Byzantine-tolerant+%C2%B7+Formally+Verified" alt="header" />
-</p>
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/-RYAN_WILLIAMS-00F0FF?style=flat-square&logo=rust&logoColor=white&labelColor=0a0a0a" alt="Ryan Williams" />
-</h1>
-
-<p align="center">
-  <b style="color:#FF00FF">Founder @ Sovereign Mohawk Proto LLC</b> · Seattle, WA<br>
-  <span style="color:#00F0FF">Architecting sovereign infrastructure for distributed ML and kernel-bypass networking.</span>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/repos-24+-00F0FF?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/commits-4k+-00FF9F?style=flat-square&logo=git&logoColor=black&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/crates-8+published-FF00FF?style=flat-square&logo=rust&logoColor=white&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/focus-federated_learning-00F0FF?style=flat-square&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/security-post_quantum-00FF9F?style=flat-square&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/tests-formally_verified-FF00FF?style=flat-square&labelColor=0a0a0a" />
-  <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=00F0FF&label=PROFILE+VIEWS&labelColor=0a0a0a" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/rwilliamspbg-ops"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F_SPONSOR-FF00FF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a0a0a" alt="Sponsor" /></a>
-</p>
-
----
-
-## About
-
-> **Systems engineer and founder** specializing in memory-safe distributed infrastructure. Building at the intersection of **federated learning**, **post-quantum cryptography**, and **kernel-bypass networking**. Currently scaling Ghostlink's LLM inference fabric across heterogeneous hardware and driving the 2026 post-quantum cryptography overhaul across the Sovereign Mohawk ecosystem.
-
----
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=860&lines=Ryan+Williams+%C2%B7+Systems+Engineer+%26+Founder;Memory-safe+%C2%B7+Quantum-resistant+%C2%B7+Formally+Verified;Sovereign+infrastructure+for+distributed+ML" alt="Ryan Williams" />
 </p>
@@ -115,8 +82,6 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 </table>
 
 ---
-
-## Currently building
 
 ## 🚨 Currently Building
 
