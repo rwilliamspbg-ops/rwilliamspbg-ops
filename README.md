@@ -32,6 +32,91 @@
 > **Systems engineer and founder** specializing in memory-safe distributed infrastructure. Building at the intersection of **federated learning**, **post-quantum cryptography**, and **kernel-bypass networking**. Currently scaling Ghostlink's LLM inference fabric across heterogeneous hardware and driving the 2026 post-quantum cryptography overhaul across the Sovereign Mohawk ecosystem.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=860&lines=Ryan+Williams+%C2%B7+Systems+Engineer+%26+Founder;Memory-safe+%C2%B7+Quantum-resistant+%C2%B7+Formally+Verified;Sovereign+infrastructure+for+distributed+ML" alt="Ryan Williams" />
+</p>
+
+<h1 align="center">Ryan Williams</h1>
+
+<p align="center">
+  <b>Founder · Sovereign Mohawk Proto LLC</b> · Seattle, WA<br/>
+  Architecting sovereign infrastructure for distributed ML and kernel-bypass networking.
+</p>
+
+<p align="center">
+  <a href="https://github.com/rwilliamspbg-ops"><img src="https://img.shields.io/badge/repos-24+-00F0FF?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a" alt="Repos" /></a>
+  <a href="https://github.com/rwilliamspbg-ops"><img src="https://img.shields.io/badge/commits-4k+-00FF9F?style=flat-square&logo=git&logoColor=black&labelColor=0a0a0a" alt="Commits" /></a>
+  <a href="https://crates.io/users/rwilliamspbg-ops"><img src="https://img.shields.io/badge/crates-8+_published-FF00FF?style=flat-square&logo=rust&logoColor=white&labelColor=0a0a0a" alt="Crates" /></a>
+  <img src="https://img.shields.io/badge/focus-federated_learning-00F0FF?style=flat-square&labelColor=0a0a0a" alt="Federated learning" />
+  <img src="https://img.shields.io/badge/security-post--quantum-00FF9F?style=flat-square&labelColor=0a0a0a" alt="Post-quantum" />
+  <img src="https://img.shields.io/badge/verification-formal_%2B_BFT-FF00FF?style=flat-square&labelColor=0a0a0a" alt="Formal verification" />
+  <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=00F0FF&label=PROFILE+VIEWS&labelColor=0a0a0a" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://rwilliamspbg-ops.github.io/Ghostlink/"><img src="https://img.shields.io/badge/Docs-Ghostlink-00F0FF?style=for-the-badge&labelColor=0a0a0a" alt="Ghostlink docs" /></a>
+  <a href="https://orcid.org/0009-0005-1126-7004"><img src="https://img.shields.io/badge/ORCID-0009--0005--1126--7004-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0a0a0a" alt="ORCID" /></a>
+  <a href="https://www.linkedin.com/in/rwilliams-pa/"><img src="https://img.shields.io/badge/LinkedIn-rwilliams--pa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
+  <a href="https://github.com/sponsors/rwilliamspbg-ops"><img src="https://img.shields.io/badge/Sponsor-FF00FF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a0a0a" alt="Sponsor" /></a>
+</p>
+
+---
+
+## About
+
+Systems engineer and founder specializing in **memory-safe distributed infrastructure**. Work sits at the intersection of:
+
+- **Federated learning** at extreme scale (BFT, zk proofs, TEE aggregation)
+- **Post-quantum cryptography** (ML-KEM, ML-DSA, SLH-DSA, hybrid TLS 1.3)
+- **Kernel-bypass networking** (AF_XDP, zero-copy datapaths, lock-free routing)
+
+Currently scaling **Ghostlink** — a distributed LLM inference fabric across heterogeneous hardware — and driving the **2026 post-quantum overhaul** across the Sovereign Mohawk ecosystem.
+
+---
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/rwilliamspbg-ops/Ghostlink">
+        <img src="https://socialify.git.ci/rwilliamspbg-ops/Ghostlink/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="Ghostlink" width="100%" />
+      </a>
+      <br/>
+      <b><a href="https://github.com/rwilliamspbg-ops/Ghostlink">Ghostlink</a></b><br/>
+      Distributed LLM inference fabric<br/>
+      <sub>SPSC ring buffers · automated tuning · OpenAI-compatible API</sub><br/>
+      <code>Rust</code> · <code>MIT</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/rwilliamspbg-ops/RustForge">
+        <img src="https://socialify.git.ci/rwilliamspbg-ops/RustForge/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="RustForge" width="100%" />
+      </a>
+      <br/>
+      <b><a href="https://github.com/rwilliamspbg-ops/RustForge">RustForge</a></b><br/>
+      Modular Rust test-suite template<br/>
+      <sub>cargo test → fuzz · property · bench · compile-fail</sub><br/>
+      <code>Rust</code> · <code>Apache-2.0</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto">
+        <img src="https://raw.githubusercontent.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto/main/assets/img/social-preview.png" alt="Sovereign Mohawk Proto" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto">
+        <img src="https://raw.githubusercontent.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto/main/assets/img/SMP%20logo.png" alt="SMP logo" height="36" />
+      </a><br/>
+      <b><a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto">Sovereign Mohawk Proto</a></b><br/>
+      10M-node federated learning<br/>
+      <sub>BFT · 10ms zk-SNARKs · 2026 PQC overhaul</sub><br/>
+      <code>Go</code> · <code>Apache-2.0</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Currently building
 
 ## 🚨 Currently Building
 
