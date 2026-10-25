@@ -104,30 +104,6 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 ---
 
-## Top Repositories
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/rwilliamspbg-ops/Ghostlink">👻 Ghostlink</a></h4>
-      <p><strong>Distributed LLM inference fabric</strong> — SPSC ring buffers, automated tuning, OpenAI-compatible API.</p>
-      <p><code>Rust</code> <code>MIT</code> <a href="https://github.com/rwilliamspbg-ops/Ghostlink/actions"><img src="https://github.com/rwilliamspbg-ops/Ghostlink/actions/workflows/ci.yml/badge.svg" alt="CI" /></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/rwilliamspbg-ops/RustForge">🛠️ RustForge</a></h4>
-      <p><strong>Modular Rust test-suite template</strong> — cargo test to fuzzing, property tests, benchmarks, compile-fail checks.</p>
-      <p><code>Rust</code> <code>Apache-2.0</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto">🏴 Sovereign Mohawk Proto</a></h4>
-      <p><strong>10M-node federated learning</strong> — BFT verification, 10ms zk-SNARKs, 2026 PQC overhaul.</p>
-      <p><code>Go</code> <code>Apache-2.0</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Developer Passport
 
 <div align="center">
