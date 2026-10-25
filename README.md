@@ -117,6 +117,11 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=2000&color=FF00FF&center=true&vCenter=true&width=600&lines=Designed+for+adversaries+with+unlimited+compute.;Built+in+Rust.;Verified+on+paper.;%C2%A9+2026+Sovereign+Mohawk+Proto+LLC" alt="footer" />
+</p>
+
+---
 ## 🚨 Currently Building
 
 ```
@@ -270,8 +275,4 @@ Repositories:
 </sub>
 
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=2000&color=FF00FF&center=true&vCenter=true&width=600&lines=Designed+for+adversaries+with+unlimited+compute.;Built+in+Rust.;Verified+on+paper.;%C2%A9+2026+Sovereign+Mohawk+Proto+LLC" alt="footer" />
-</p>
