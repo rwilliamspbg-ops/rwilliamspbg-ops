@@ -107,7 +107,7 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
   Under consideration at *Distributed Computing* (Springer). Submitted 31 October 2026.  
   Preprint forthcoming on Research Square.
 
-- **Conference abstract**: [Exact title of your SAMYRAD abstract].  
+- **Conference abstract**: "Sovereign Mohawk A Formally Verified Federated Learning Architecturefor Planetary Scale with Byzantine Resilience  Differential Privacy zk-SNARK Verifiability, and Post-Quantum Cryptography".  
   In S. Hosseini & M. Espinosa (Eds.), *SAMYRAD 2026 Book of Abstracts* (p. 79). Intelligent Nudge.  
   https://doi.org/10.68286/samyrad.2026.abstracts  
   Presented at SAMYRAD 2026 (5–6 October 2026, Seville; IEEE-partnered).
