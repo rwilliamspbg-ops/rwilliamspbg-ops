@@ -101,7 +101,20 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 | [smp-zk-proofs](https://crates.io/crates/smp-zk-proofs) | <img src="https://img.shields.io/crates/v/smp-zk-proofs?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | ZK proof primitives for verifiable location and ML-training claims |
 
 ---
+## External Publications & Submissions
 
+- **Journal submission**: “Sovereign-Mohawk: A Formally Verified Hierarchical Federated Learning Architecture with Byzantine Resilience, Differential Privacy, and Zero-Knowledge Verifiability.”  
+  Under consideration at *Distributed Computing* (Springer). Submitted 31 October 2026.  
+  Preprint forthcoming on Research Square.
+
+- **Conference abstract**: [Exact title of your SAMYRAD abstract].  
+  In S. Hosseini & M. Espinosa (Eds.), *SAMYRAD 2026 Book of Abstracts* (p. 79). Intelligent Nudge.  
+  https://doi.org/10.68286/samyrad.2026.abstracts  
+  Presented at SAMYRAD 2026 (5–6 October 2026, Seville; IEEE-partnered).
+
+We welcome independent formal review of the Lean 4 artifacts, refinement bridges, and cryptographic claims. See `docs/EXTERNAL_AUDIT_SCOPE.md`.
+
+---
 ## 🛰️ Contribution Activity
 
 <div align="center">
