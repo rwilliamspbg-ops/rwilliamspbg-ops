@@ -103,10 +103,6 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 ---
 ## External Publications & Submissions
 
-- **Journal submission**: “Sovereign-Mohawk: A Formally Verified Hierarchical Federated Learning Architecture with Byzantine Resilience, Differential Privacy, and Zero-Knowledge Verifiability.”  
-  Under consideration at *Distributed Computing* (Springer). Submitted 31 October 2026.  
-  Preprint forthcoming on Research Square.
-
 - **Conference abstract**: "Sovereign Mohawk A Formally Verified Federated Learning Architecturefor Planetary Scale with Byzantine Resilience  Differential Privacy zk-SNARK Verifiability, and Post-Quantum Cryptography".  
   In S. Hosseini & M. Espinosa (Eds.), *SAMYRAD 2026 Book of Abstracts* (p. 79). Intelligent Nudge.  
   https://doi.org/10.68286/samyrad.2026.abstracts  
@@ -114,7 +110,6 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 We welcome independent formal review of the Lean 4 artifacts, refinement bridges, and cryptographic claims. See `docs/EXTERNAL_AUDIT_SCOPE.md`.
 
----
 ## 🛰️ Contribution Activity
 
 <div align="center">
