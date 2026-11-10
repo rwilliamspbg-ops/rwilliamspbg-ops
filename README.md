@@ -27,6 +27,11 @@
   <a href="https://github.com/sponsors/rwilliamspbg-ops"><img src="https://img.shields.io/badge/Sponsor-FF00FF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a0a0a" alt="Sponsor" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rwilliamspbg-ops?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/rwilliamspbg-ops?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Primary%20Languages-Rust%20%7C%20Go%20%7C%20Lean4-blue?style=for-the-badge&logo=rust" alt="Top Languages" />
+</p>
 ---
 <p align="center">
   <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g"><img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0a0a0a" alt="Listen on Spotify" /></a>
@@ -110,14 +115,6 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
   * **Affiliation:** [![IEEE Partnered](https://img.shields.io/badge/IEEE-Partnered-00629B?style=flat&logo=ieee&logoColor=white)](https://www.ieee.org)
 
 > **Independent Audit Notice:** We welcome independent formal review of the Lean 4 artifacts, refinement bridges, and cryptographic claims. Please review our guidelines in [`docs/EXTERNAL_AUDIT_SCOPE.md`](docs/EXTERNAL_AUDIT_SCOPE.md).
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/rwilliamspbg-ops?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/rwilliamspbg-ops?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Primary%20Languages-Rust%20%7C%20Go%20%7C%20Lean4-blue?style=for-the-badge&logo=rust" alt="Top Languages" />
-</p>
 
 ### Contribution Heat
 
