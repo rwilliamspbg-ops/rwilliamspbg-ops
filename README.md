@@ -103,12 +103,13 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 ---
 ## External Publications & Submissions
 
-- **Conference abstract**: "Sovereign Mohawk A Formally Verified Federated Learning Architecturefor Planetary Scale with Byzantine Resilience  Differential Privacy zk-SNARK Verifiability, and Post-Quantum Cryptography".  
-  In S. Hosseini & M. Espinosa (Eds.), *SAMYRAD 2026 Book of Abstracts* (p. 79). Intelligent Nudge.  
-  https://doi.org/10.68286/samyrad.2026.abstracts  
-  Presented at SAMYRAD 2026 (5–6 October 2026, Seville; IEEE-partnered).
+* **Conference Abstract:** "Sovereign Mohawk: A Formally Verified Federated Learning Architecture for Planetary Scale with Byzantine Resilience, Differential Privacy, zk-SNARK Verifiability, and Post-Quantum Cryptography."
+  * **Publication:** *SAMYRAD 2026 Book of Abstracts* (p. 79), Intelligent Nudge. Edited by S. Hosseini & M. Espinosa.
+  * **Digital Object Identifier:** [10.68286/samyrad.2026.abstracts](https://doi.org/10.68286/samyrad.2026.abstracts)
+  * **Event:** Presented at SAMYRAD 2026 (October 5–6, 2026 • Seville) 
+  * **Affiliation:** [![IEEE Partnered](https://img.shields.io/badge/IEEE-Partnered-00629B?style=flat&logo=ieee&logoColor=white)](https://www.ieee.org)
 
-We welcome independent formal review of the Lean 4 artifacts, refinement bridges, and cryptographic claims. See `docs/EXTERNAL_AUDIT_SCOPE.md`.
+> **Independent Audit Notice:** We welcome independent formal review of the Lean 4 artifacts, refinement bridges, and cryptographic claims. Please review our guidelines in [`docs/EXTERNAL_AUDIT_SCOPE.md`](docs/EXTERNAL_AUDIT_SCOPE.md).
 
 ## 🛰️ Contribution Activity
 
