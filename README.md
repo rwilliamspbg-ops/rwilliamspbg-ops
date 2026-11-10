@@ -111,12 +111,12 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 > **Independent Audit Notice:** We welcome independent formal review of the Lean 4 artifacts, refinement bridges, and cryptographic claims. Please review our guidelines in [`docs/EXTERNAL_AUDIT_SCOPE.md`](docs/EXTERNAL_AUDIT_SCOPE.md).
 
-## 🛰️ Contribution Activity
+## Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rwilliamspbg-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&text_color=e6edf3&icon_color=FF00FF" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwilliamspbg-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&text_color=e6edf3" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+</p>
 
 ### Contribution Heat
 
