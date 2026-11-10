@@ -114,8 +114,9 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Primary%20Languages-Rust%20%7C%20Go%20%7C%20Lean4-blue?style=for-the-badge&logo=rust" alt="Top Languages" />
 </p>
 
 ### Contribution Heat
