@@ -38,7 +38,9 @@
 </p>
 
 ---
-## About
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=About%20Me&fontSize=24&fontColor=ffffff" width="100%"/>
+</p>
 
 Systems engineer and founder specializing in **memory-safe distributed infrastructure**. Work sits at the intersection of:
 
