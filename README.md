@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/github/stars/rwilliamspbg-ops?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Primary%20Languages-Rust%20%7C%20Go%20%7C%20Lean4-blue?style=for-the-badge&logo=rust" alt="Top Languages" />
 </p>
----
+
 <p align="center">
   <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g"><img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0a0a0a" alt="Listen on Spotify" /></a>
 </p>
