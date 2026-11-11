@@ -11,30 +11,46 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rwilliamspbg-ops"><img src="https://img.shields.io/badge/repos-24+-00F0FF?style=flat-square&logo=github&logoColor=white&labelColor=0e1923" alt="Repos" /></a>
-  <a href="https://github.com/rwilliamspbg-ops"><img src="https://img.shields.io/badge/commits-4k+-00FF9F?style=flat-square&logo=git&logoColor=black&labelColor=0e1923" alt="Commits" /></a>
-  <a href="https://crates.io/users/rwilliamspbg-ops"><img src="https://img.shields.io/badge/crates-8+_published-FF00FF?style=flat-square&logo=rust&logoColor=white&labelColor=0e1923" alt="Crates" /></a>
-  <img src="https://img.shields.io/badge/focus-federated_learning-00F0FF?style=flat-square&labelColor=0e1923" alt="Federated learning" />
-  <img src="https://img.shields.io/badge/security-post--quantum-00FF9F?style=flat-square&labelColor=0e1923" alt="Post-quantum" />
-  <img src="https://img.shields.io/badge/verification-formal_%2B_BFT-FF00FF?style=flat-square&labelColor=0e1923" alt="Formal verification" />
-  <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=flat-square&color=00F0FF&label=PROFILE+VIEWS&labelColor=0e1923" alt="Profile views" />
+  <a href="https://github.com/rwilliamspbg-ops">
+    <img src="https://img.shields.io/badge/Repos-24+-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0e1923" alt="Repos" />
+  </a>
+  <a href="https://github.com/rwilliamspbg-ops">
+    <img src="https://img.shields.io/badge/Commits-4k+-00FF9F?style=for-the-badge&logo=git&logoColor=white&labelColor=0e1923" alt="Commits" />
+  </a>
+  <a href="https://crates.io/users/rwilliamspbg-ops">
+    <img src="https://img.shields.io/badge/Crates-8+_published-FF00FF?style=for-the-badge&logo=rust&logoColor=white&labelColor=0e1923" alt="Crates" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Federated_Learning-00F0FF?style=for-the-badge&labelColor=0e1923" alt="Federated learning" />
+  <img src="https://img.shields.io/badge/Security-Post--Quantum-00FF9F?style=for-the-badge&labelColor=0e1923" alt="Post-quantum" />
+  <img src="https://img.shields.io/badge/Verification-Formal_%2B_BFT-FF00FF?style=for-the-badge&labelColor=0e1923" alt="Formal verification" />
+  <img src="https://komarev.com/ghpvc/?username=rwilliamspbg-ops&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS&labelColor=0e1923" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://rwilliamspbg-ops.github.io/Ghostlink/"><img src="https://img.shields.io/badge/Docs-Ghostlink-00F0FF?style=for-the-badge&labelColor=0e1923" alt="Ghostlink docs" /></a>
-  <a href="https://orcid.org/0009-0005-1126-7004"><img src="https://img.shields.io/badge/ORCID-0009--0005--1126--7004-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0e1923" alt="ORCID" /></a>
-  <a href="https://www.linkedin.com/in/rwilliams-pa/"><img src="https://img.shields.io/badge/LinkedIn-rwilliams--pa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e1923" alt="LinkedIn" /></a>
-  <a href="https://github.com/sponsors/rwilliamspbg-ops"><img src="https://img.shields.io/badge/Sponsor-FF00FF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0e1923" alt="Sponsor" /></a>
+  <a href="https://rwilliamspbg-ops.github.io/Ghostlink/">
+    <img src="https://img.shields.io/badge/Docs-Ghostlink-00F0FF?style=for-the-badge&labelColor=0e1923" alt="Ghostlink docs" />
+  </a>
+  <a href="https://orcid.org/0009-0005-1126-7004">
+    <img src="https://img.shields.io/badge/ORCID-0009--0005--1126--7004-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0e1923" alt="ORCID" />
+  </a>
+  <a href="https://www.linkedin.com/in/rwilliams-pa/">
+    <img src="https://img.shields.io/badge/LinkedIn-rwilliams--pa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e1923" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sponsors/rwilliamspbg-ops">
+    <img src="https://img.shields.io/badge/Sponsor-FF00FF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0e1923" alt="Sponsor" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/rwilliamspbg-ops?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/rwilliamspbg-ops?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Primary%20Languages-Rust%20%7C%20Go%20%7C%20Lean4-blue?style=for-the-badge&logo=rust" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/rwilliamspbg-ops?label=Followers&style=for-the-badge&color=00FF9F&logo=github&logoColor=white&labelColor=0e1923" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/rwilliamspbg-ops?label=Total%20Stars&style=for-the-badge&color=00F0FF&logo=github&logoColor=white&labelColor=0e1923" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Primary%20Languages-Rust%20%7C%20Go%20%7C%20Lean4-FF00FF?style=for-the-badge&logo=rust&logoColor=white&labelColor=0e1923" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g"><img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0a0a0a" alt="Listen on Spotify" /></a>
+  <a href="https://open.spotify.com/episode/3w1hSN7ns5DRlNcqjjlmrc?si=JFNgojkaSn-ZR8Hg49VA4g">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0e1923" alt="Listen on Spotify" />
+  </a>
 </p>
 
 ---
