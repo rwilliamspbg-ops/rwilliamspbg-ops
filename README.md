@@ -55,7 +55,7 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=About%20Me&fontSize=24&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:00FF9F,100:FF00FF&height=90&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%" alt="About Me" />
 </p>
 
 Systems engineer and founder specializing in **memory-safe distributed infrastructure**. Work sits at the intersection of:
