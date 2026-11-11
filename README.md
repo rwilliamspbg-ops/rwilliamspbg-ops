@@ -112,7 +112,9 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 | [smp-zk-proofs](https://crates.io/crates/smp-zk-proofs) | <img src="https://img.shields.io/crates/v/smp-zk-proofs?style=flat-square&labelColor=0a0a0a&color=FF00FF" alt="version" /> | ZK proof primitives for verifiable location and ML-training claims |
 
 ---
-## External Publications & Submissions
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=External%20Publications&fontSize=24&fontColor=ffffff" width="100%"/>
+</p>
 
 * **Conference Abstract:** "Sovereign Mohawk: A Formally Verified Federated Learning Architecture for Planetary Scale with Byzantine Resilience, Differential Privacy, zk-SNARK Verifiability, and Post-Quantum Cryptography."
   * **Publication:** *SAMYRAD 2026 Book of Abstracts* (p. 79), Intelligent Nudge. Edited by S. Hosseini & M. Espinosa.
@@ -130,7 +132,9 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 ---
 
-### ◆ Core Technologies
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=Core%20Technologies&fontSize=24&fontColor=ffffff" width="100%"/>
+</p>
 
 | Layer | Tech | Confidence |
 |-------|------|------------|
