@@ -69,7 +69,7 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=Current%20Focus&fontSize=24&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:00FF9F,100:FF00FF&height=90&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%" alt="About Me" />
 </p>
 
 <table>
@@ -113,7 +113,7 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=Published%20Crates&fontSize=24&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:00FF9F,100:FF00FF&height=90&section=header&text=Published%20Crates&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%" alt="About Me" />
 </p>
 
 | Crate | Version | Description |
@@ -129,7 +129,7 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=External%20Publications&fontSize=24&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:00FF9F,100:FF00FF&height=90&section=header&text=External%20Publications&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%" alt="About Me" />
 </p>
 
 * **Conference Abstract:** "Sovereign Mohawk: A Formally Verified Federated Learning Architecture for Planetary Scale with Byzantine Resilience, Differential Privacy, zk-SNARK Verifiability, and Post-Quantum Cryptography."
@@ -149,7 +149,7 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=Core%20Technologies&fontSize=24&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:00FF9F,100:FF00FF&height=90&section=header&text=Core%20Technologies&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%" alt="About Me" />
 </p>
 
 | Layer | Tech | Confidence |
@@ -163,7 +163,9 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 ---
 
-## Ecosystem
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:00FF9F,100:FF00FF&height=90&section=header&text=Ecosystem&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%" alt="About Me" />
+</p>
 
 **Federated learning & ML**
 - [Sovereign-Map-Federated-Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning) — Byzantine-tolerant streaming aggregation (224× memory reduction)
