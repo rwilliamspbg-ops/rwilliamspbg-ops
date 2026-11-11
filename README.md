@@ -96,7 +96,9 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 ---
 
-## Published Crates
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,25,35&height=60§ion=header&text=Published%20Crates&fontSize=24&fontColor=ffffff" width="100%"/>
+</p>
 
 | Crate | Version | Description |
 |-------|---------|-------------|
