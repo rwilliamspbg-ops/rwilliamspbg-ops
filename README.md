@@ -129,53 +129,6 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 </p>
 
 ---
-## 🚨 Currently Building
-
-```
-┌─ Ghostlink v0.3 ──────────────────────────────────────────────┐
-│  Multi-node tensor parallelism with automatic topology discovery │
-│  Status: ██████████░░░░ 68% complete                           │
-└────────────────────────────────────────────────────────────────┘
-
-┌─ smp-pqc v0.2 ────────────────────────────────────────────────┐
-│  SLH-DSA signatures and hybrid TLS 1.3 handshakes              │
-│  Status: ████████░░░░░░ 45% complete                           │
-└────────────────────────────────────────────────────────────────┘
-
-┌─ Sovereign-Mohawk-Proto v0.4 ─────────────────────────────────┐
-│  10M-node BFT aggregation with 10ms zk-SNARK verification      │
-│  Status: ████████████░░ 72% complete                           │
-└────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Developer Passport
-
-<div align="center">
-
-### ◆ Identity
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  RYAN WILLIAMS @ rwilliamspbg-ops                                   │
-│  Role: Systems Engineer · Founder                                   │
-│  Repositories: 24+  │  Commits: 4k+  │  Ownership: 100%            │
-│  Crates Published: 8  │  CI/CD: GitHub Actions  │  Tests: ✓         │
-│  Clearance: Level-5 Sovereign Architect                             │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-### ◆ Engineering Profile
-
-```
-Frontend    ████████░░░░░░░░  Moderate
-Backend     ████████████████  Expert
-Testing     ████████████████  Expert
-DevOps      ██████████████░░  Advanced
-Systems     ████████████████  Expert
-Security    ████████████████  Expert
-```
 
 ### ◆ Core Technologies
 
@@ -187,47 +140,6 @@ Security    ████████████████  Expert
 | ML/AI | PyTorch, ONNX, TensorRT, Federated Learning | ██████████░░ 85% |
 | Infrastructure | Docker, GitHub Actions, Prometheus, Grafana | ████████░░░░ 80% |
 | Formal Verification | Lean 4, Coq, TLA+, zk-SNARKs | ████████░░░░ 75% |
-
-### ◆ Engineering Habits
-
-```
-Automated Tests   ████████████████  ✓ PASS
-Documentation     ████████████████  ✓ PASS
-Containerization  ██████████████░░  ◐ PARTIAL
-CI/CD Pipeline    ████████████████  ✓ PASS
-Linting/Format    ██████████████░░  ◐ PARTIAL
-Formal Proofs     ██████████████░░  ◐ PARTIAL
-```
-
-### ◆ Infrastructure
-
-```
-Testing           ████████████████  pytest, cargo test, fuzzing
-CI/CD             ████████████████  GitHub Actions (all repos)
-Containerization  ██████████████░░  Docker (primary), no K8s
-Observability     ██████████████░░  Prometheus + Grafana
-```
-
-### ◆ Project Portfolio
-
-| Repository | Language | Stars | Description |
-|------------|----------|-------|-------------|
-| [Ghostlink](https://github.com/rwilliamspbg-ops/Ghostlink) | Rust | ⭐ 68 | Distributed LLM inference fabric |
-| [Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) | Go | ⭐ 10 | 10M-node federated learning with BFT |
-| [SMIP-MWP-Rust](https://github.com/rwilliamspbg-ops/SMIP-MWP-Rust) | Rust | ⭐ 7 | Zero-copy AF_XDP networking |
-| [SMP-TEE-Runtime](https://github.com/rwilliamspbg-ops/smp-tee-runtime) | Rust | ⭐ 3 | TEE-enclave FedAvg aggregation |
-| [smp-zk-proofs](https://github.com/rwilliamspbg-ops/smp-zk-proofs) | Rust | ⭐ 2 | ZK proof primitives |
-| [RustForge](https://github.com/rwilliamspbg-ops/RustForge) | Rust | ⭐ 3 | Rust test-suite template |
-
-### ◆ Activity & Ownership
-
-```
-Median Lifetime:    180d+  │  Longest Project: Ghostlink 400d+
-Owner-Authored:     100%   │  Community: 85+ stars, 3 contributors, 2 forks
-Active Months:      12     │  Commit Velocity: 4k+ commits
-```
-
-</div>
 
 ---
 
@@ -258,18 +170,6 @@ Active Months:      12     │  Commit Velocity: 4k+ commits
 
 ---
 
-## Contact
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏢 Company:    Sovereign Mohawk Proto LLC                          │
-│  📍 Location:   Seattle, WA                                         │
-│  🎯 Focus:      Memory-safe, formally verified, sovereign systems   │
-│  🔗 Web:        sovereignmohawk.proto                               │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
 
 <sub>
 Repositories:
