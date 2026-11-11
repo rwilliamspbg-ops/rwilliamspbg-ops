@@ -152,14 +152,18 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:00FF9F,100:FF00FF&height=90&section=header&text=Core%20Technologies&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%" alt="About Me" />
 </p>
 
+<div style="background: linear-gradient(90deg, #00b4d8 0%, #7209b7 100%); padding: 16px; border-radius: 8px;">
+
 | Layer | Tech | Confidence |
-|-------|------|------------|
-| Systems | Rust, Go, C, Assembly | ████████████ 100% |
-| Cryptography | ML-KEM, ML-DSA, SLH-DSA, AES-256-GCM, ChaCha20-Poly1305 | ████████████ 100% |
-| Networking | AF_XDP, DPDK, TCP/IP, QUIC, TLS 1.3 | ████████████ 100% |
-| ML/AI | PyTorch, ONNX, TensorRT, Federated Learning | ██████████░░ 85% |
-| Infrastructure | Docker, GitHub Actions, Prometheus, Grafana | ████████░░░░ 80% |
-| Formal Verification | Lean 4, Coq, TLA+, zk-SNARKs | ████████░░░░ 75% |
+| :--- | :--- | :--- |
+| **Systems** | Rust, Go, C, Assembly | 100% |
+| **Cryptography** | ML-KEM, ML-DSA, SLH-DSA, AES-256-GCM, ChaCha20-Poly1305 | 100% |
+| **Networking** | AF_XDP, DPDK, TCP/IP, QUIC, TLS 1.3 | 100% |
+| **ML/AI** | PyTorch, ONNX, TensorRT, Federated Learning | 85% |
+| **Infrastructure** | Docker, GitHub Actions, Prometheus, Grafana | 80% |
+| **Formal Verification** | Lean 4, Coq, TLA+, zk-SNARKs | 75% |
+
+</div>
 
 ---
 
