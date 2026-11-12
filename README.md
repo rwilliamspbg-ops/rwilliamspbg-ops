@@ -140,7 +140,7 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
 
 * **Preprint:** "Sovereign-Mohawk: Machine-Checked Hierarchical Byzantine Resilience and Probabilistic Composition for Federated Learning"
   * **Publication:** *Research Square*, 
-  * **Digital Object Identifier:** [Preprint](https://www.researchsquare.com/article/rs-11694611/v1)](https://www.researchsquare.com/article/rs-11694611/v1)
+  * **Digital Object Identifier:** (https://www.researchsquare.com/article/rs-11694611/v1)](https://www.researchsquare.com/article/rs-11694611/v1)
   * **Research Submission for Peer-Review: ** Research Square Nov. 2026 
   * **Affiliation:** [![IEEE Partnered](https://img.shields.io/badge/IEEE-Partnered-00629B?style=flat&logo=ieee&logoColor=white)](https://www.ieee.org)
 
