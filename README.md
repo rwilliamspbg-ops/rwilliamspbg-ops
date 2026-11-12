@@ -138,6 +138,11 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
   * **Event:** Presented at SAMYRAD 2026 (October 5–6, 2026 • Seville) 
   * **Affiliation:** [![IEEE Partnered](https://img.shields.io/badge/IEEE-Partnered-00629B?style=flat&logo=ieee&logoColor=white)](https://www.ieee.org)
 
+* **Preprint:** "Sovereign-Mohawk: Machine-Checked Hierarchical Byzantine Resilience and Probabilistic Composition for Federated Learning"
+  * **Publication:** *Research Square*, 
+  * **Digital Object Identifier:** [Preprint]([https://doi.org/10.68286/samyrad.2026.abstracts](https://www.researchsquare.com/article/rs-11694611/v1)) 
+  * **Affiliation:** [![IEEE Partnered](https://img.shields.io/badge/IEEE-Partnered-00629B?style=flat&logo=ieee&logoColor=white)](https://www.ieee.org)
+
 > **Independent Audit Notice:** We welcome independent formal review of the Lean 4 artifacts, refinement bridges, and cryptographic claims. Please review our guidelines in [`docs/EXTERNAL_AUDIT_SCOPE.md`](docs/EXTERNAL_AUDIT_SCOPE.md).
 
 ---
