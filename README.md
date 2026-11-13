@@ -142,7 +142,8 @@ Currently scaling **Ghostlink** — a distributed LLM inference fabric across he
   * **Publication:** *Research Square*, 
   * **Digital Object Identifier:** (https://www.researchsquare.com/article/rs-11694611/v1)
   * **Research Submission for Peer-Review: ** Research Square Nov. 2026 
-  * **Affiliation:** [![IEEE Partnered](https://img.shields.io/badge/IEEE-Partnered-00629B?style=flat&logo=ieee&logoColor=white)](https://www.ieee.org)
+  * **Affiliation:** [![DOI](https://zenodo.org/badge/1154795332.svg)](https://doi.org/10.5281/zenodo.24208836)
+
 
 > **Independent Audit Notice:** We welcome independent formal review of the Lean 4 artifacts, refinement bridges, and cryptographic claims. Please review our guidelines in [`docs/EXTERNAL_AUDIT_SCOPE.md`](docs/EXTERNAL_AUDIT_SCOPE.md).
 
